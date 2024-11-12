@@ -1,11 +1,17 @@
 
-# Princess Crown Translation GPL edition
+# Princess Crown Uncensored Translation GPL edition by MiYaku Gaming
 
 [old readme here](readme.txt.old)
 
-My attempt to continue on the CyberWarriorX translation project.
+This MiYaku Gaming's script re-write to keep Princess Crown uncensored, I will pull hacked updates from eadmaster's repository for better game functionality.
+Originally, I forked a very old and outdated version of CyberWarriorX's repository due to Translating Princess Crown on YouTube and helped eadmaster Translate the remaining lines.
+After that, I deleted my old fork and forked this repository from eadmaster's repository for my script re-write.
+SamIAm's Translation will no longer exist in this repository and this is my own.
+Fans of my Uncensored Translations on YouTube and elsewhere will be happy to know this will be a faithful adaption to the original.
 
+eadmaster leftover:
 **P.N.: reportedly CyberWarriorX and SamIAm are still working privately on this project, and since this was forked many years ago it does not reflect the current status of their project. Btw since this was originally released with a GPL-2.0 license, i'd like to exercise my right to keep working on this and make improvements as long as a better translation patch is released.**
+
 
 
 ## Current status
