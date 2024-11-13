@@ -8,25 +8,25 @@
 7<lineend>
 8<lineend>
 9<lineend>
-You have no items!<lineend>
+You don't have any items.<lineend>
 Heart Fruit<lineend>
 Heart Fruit<lineend>
 Heart Fruit<lineend>
-Elikshil Fruit<lineend>
-Elikshil Fruit<lineend>
-Elikshil Fruit<lineend>
-Yggdrasill Fruit<lineend>
-Yggdrasill Fruit<lineend>
-Yggdrasill Fruit<lineend>
-Magic Mushroom<lineend>
-Magic Mushroom<lineend>
-Magic Mushroom<lineend>
+Elixir Fruit<lineend>
+Elixir Fruit<lineend>
+Elixir Fruit<lineend>
+Yggdrasil Fruit<lineend>
+Yggdrasil Fruit<lineend>
+Yggdrasil Fruit<lineend>
+Magical Mushroom<lineend>
+Magical Mushroom<lineend>
+Magical Mushroom<lineend>
 Grilled Corn<lineend>
 Grilled Corn<lineend>
 Grilled Corn<lineend>
-Toast To Go<lineend>
-Buttered Toast<lineend>
-Buttered Toast<lineend>
+Obento Bread<lineend>
+Buttered Bread<lineend>
+Buttered Bread<lineend>
 Grilled Fish<lineend>
 Grilled Fish<lineend>
 Grilled Fish<lineend>
@@ -39,9 +39,9 @@ Dragon Steak<lineend>
 Fruit Cake<lineend>
 Fruit Cake<lineend>
 Fruit Cake<lineend>
-Hamburger<lineend>
-Hamburger<lineend>
-Hamburger<lineend>
+Jumbo Burger<lineend>
+Jumbo Burger<lineend>
+Jumbo Burger<lineend>
 Corn Soup<lineend>
 Corn Soup<lineend>
 Corn Soup<lineend>
@@ -66,100 +66,100 @@ Goblin Juice<lineend>
 Invincible Medicine<lineend>
 Invincible Medicine<lineend>
 Invincible Medicine<lineend>
-Courage Medicine<lineend>
-Courage Medicine<lineend>
-Courage Medicine<lineend>
+Resilience Medicine<lineend>
+Resilience Medicine<lineend>
+Resilience Medicine<lineend>
 Stomach Medicine<lineend>
 Stomach Medicine<lineend>
 Stomach Medicine<lineend>
-Attack Medicine<lineend>
-Attack Medicine<lineend>
-Attack Medicine<lineend>
-Defense Potion<lineend>
-Defense Potion<lineend>
-Defense Potion<lineend>
-Warrior Glove<lineend>
-Ogre Glove<lineend>
-Silver Glove<lineend>
-Gold Glove<lineend>
-Luck Pendant<lineend>
-Magic Pendant<lineend>
-Elf Boots<lineend>
-Blink Boots<lineend>
-Angel Boots<lineend>
-Alchemist Ring<lineend>
-Flight Ring<lineend>
-Heat Ring<lineend>
-Freeze Ring<lineend>
+Stamina Medicine<lineend>
+Stamina Medicine<lineend>
+Stamina Medicine<lineend>
+Endurance Medicine<lineend>
+Endurance Medicine<lineend>
+Endurance Medicine<lineend>
+Warrior's Glove<lineend>
+Ogre's Glove<lineend>
+Silver Gauntlet<lineend>
+Golden Gauntlet<lineend>
+Pendant of Luck<lineend>
+Magical Pendant<lineend>
+Elf's Boots<lineend>
+Blinking Boots<lineend>
+Angel's Boots<lineend>
+Refined Ring<lineend>
+Fliestone Ring<lineend>
+Burning Ring<lineend>
+Freezing Ring<lineend>
 Spiked Shield<lineend>
-Frozen-Eye Shield<lineend>
-Fire Dragon Shield<lineend>
-Thief Bracelet<lineend>
-Warrior Bracelet<lineend>
-Warrior Glove<lineend>
-Ogre Glove<lineend>
-Silver Glove<lineend>
-Gold Glove<lineend>
-Luck Pendant<lineend>
-Magic Pendant<lineend>
-Elf Boots<lineend>
-Blink Boots<lineend>
+Frozen-Eyed Shield<lineend>
+Infernal Dragon Shield<lineend>
+Thief's Bracer<lineend>
+Warrior's Bracer<lineend>
+Warrior's Glove<lineend>
+Ogre's Glove<lineend>
+Silver Gauntlet<lineend>
+Golden Gauntlet<lineend>
+Pendant of Luck<lineend>
+Magical Pendant<lineend>
+Elf's Boots<lineend>
+Blinking Boots<lineend>
 Angel Boots<lineend>
-Alchemist Ring<lineend>
-Flight Ring<lineend>
-Heat Ring<lineend>
-Freeze Ring<lineend>
+Refined Ring<lineend>
+Fliestone Ring<lineend>
+Burning Ring<lineend>
+Freezing Ring<lineend>
 Spiked Shield<lineend>
-Frozen-Eye Shield<lineend>
-Fire Dragon Shield<lineend>
-Thief Bracelet<lineend>
-Warrior Bracelet<lineend>
-Gorgon Magic Stone<lineend>
-Gorgon Magic Stone<lineend>
-Gorgon Magic Stone<lineend>
-Vulcan Magic Stone<lineend>
-Vulcan Magic Stone<lineend>
-Vulcan Magic Stone<lineend>
-Thor Magic Stone<lineend>
-Thor Magic Stone<lineend>
-Thor Magic Stone<lineend>
-Thunder Magic Stone<lineend>
-Thunder Magic Stone<lineend>
-Thunder Magic Stone<lineend>
-Star Magic Stone<lineend>
-Star Magic Stone<lineend>
-Star Magic Stone<lineend>
-Holy Magic Stone<lineend>
-Holy Magic Stone<lineend>
-Holy Magic Stone<lineend>
-Witch Rod<lineend>
-Wizard Rod<lineend>
-Curse Rod<lineend>
-Wind Rod<lineend>
-Goblin Rod<lineend>
-Holy Crest<lineend>
-Rubber Scroll<lineend>
-Earthquake Scroll<lineend>
-Fire Scroll<lineend>
-Thunder Scroll<lineend>
-Gold Scroll<lineend>
-Mirror Scroll<lineend>
-Exit Scroll<lineend>
-Return Scroll<lineend>
-Mekki Scroll<lineend>
+Frozen-Eyed Shield<lineend>
+Infernal Dragon Shield<lineend>
+Thief's Bracer<lineend>
+Warrior's Bracer<lineend>
+Gorgon's Magical Stone<lineend>
+Gorgon's Magical Stone<lineend>
+Gorgon's Magical Stone<lineend>
+Vulcan's Magical Stone<lineend>
+Vulcan's Magical Stone<lineend>
+Vulcan's Magical Stone<lineend>
+Thor's Magical Stone<lineend>
+Thor's Magical Stone<lineend>
+Thor's Magical Stone<lineend>
+Thunder Magical Stone<lineend>
+Thunder Magical Stone<lineend>
+Thunder Magical Stone<lineend>
+Starlight Magical Stone<lineend>
+Starlight Magical Stone<lineend>
+Starlight Magical Stone<lineend>
+Blessed Magical Stone<lineend>
+Blessed Magical Stone<lineend>
+Blessed Magical Stone<lineend>
+Witch's Staff<lineend>
+Mage's Staff<lineend>
+Curseweaver's Staff<lineend>
+Windmage's Staff<lineend>
+Goblin's Staff<lineend>
+Blessed Sigil<lineend>
+Gummi Inscription<lineend>
+Earthquake Inscription<lineend>
+Infernalflam Sword Inscription<lineend>
+Thundergod's Sword Inscription<lineend>
+Alchemist's Inscription<lineend>
+Doppelgänger Inscription<lineend>
+Exit Inscription<lineend>
+Return Inscription<lineend>
+Stainless Inscription<lineend>
 Frying Pan<lineend>
 Soup Pot<lineend>
-Drop of Mana<lineend>
-Reinforce Scroll<lineend>
-Dispel Scroll<lineend>
-Restore Scroll<lineend>
-Eye Scroll<lineend>
-Warrior Dagger<lineend>
-Warrior Dagger<lineend>
-Warrior Dagger<lineend>
-Magic Dagger<lineend>
-Magic Dagger<lineend>
-Magic Dagger<lineend>
+Droplet of Mana<lineend>
+Equipment Boost Inscription<lineend>
+Dispel Inscription<lineend>
+Restoration Inscription<lineend>
+ID Inscription<lineend>
+Warrior's Sword<lineend>
+Warrior's Sword<lineend>
+Warrior's Swowrd<lineend>
+Magical Sword<lineend>
+Magical Sword<lineend>
+Magical Sword<lineend>
 Throwing Axe<lineend>
 Throwing Axe<lineend>
 Throwing Axe<lineend>
@@ -168,18 +168,18 @@ Holy Water<lineend>
 Large Bone<lineend>
 Fish Bone<lineend>
 Broken Frying Pan<lineend>
-Broken Soup Pot<lineend>
+Broken Cooking Pot<lineend>
 Empty Bottle<lineend>
-Elikshil Seed<lineend>
-Medicine Grass Seed<lineend>
-Power Plant Seed<lineend>
-Bomb Seed<lineend>
-Dodo Egg<lineend>
+Elixir Seed<lineend>
+Herbal Seed<lineend>
+Essence Seed<lineend>
+Bomb Grass Seed<lineend>
+Dodo's Egg<lineend>
 Dragon Meat<lineend>
 Raw Meat<lineend>
 Fish<lineend>
 Corn<lineend>
-Opal<lineend>
+Onyx<lineend>
 Ruby<lineend>
 Amethyst<lineend>
 Sapphire<lineend>
@@ -192,19 +192,19 @@ Soup Spice<lineend>
 Soup Spice<lineend>
 Soup Spice<lineend>
 Insect Powder<lineend>
-Round-Leaf Grass<lineend>
+Round-Leafed Grass<lineend>
 Jagged-Leaf Grass<lineend>
-Sharp-Leaf Grass<lineend>
-Land Stone<lineend>
-Time Stone<lineend>
+Sharp-Leafed Grass<lineend>
+Magical Earth Stone<lineend>
+Space-Time Magical Stone<lineend>
 Music Score 1<lineend>
 Music Score 2<lineend>
 Music Score 3<lineend>
-Memento Ring<lineend>
+Folding Ring<lineend>
 Ancient Key<lineend>
 Broken Sword<lineend>
-Sun Stone<lineend>
-Ocean Stone<lineend>
+Magical Sun Stone<lineend>
+Magical Ocean Stone<lineend>
 Notice Drop<lineend>
 Battle Drop<lineend>
 Kind Drop<lineend>
@@ -218,81 +218,81 @@ Cure Drop<lineend>
 
 
 
-<CC03EA><color=0000>All Health Restored<pause><lineend>
+<CC03EA><color=0000>Health Fully Restored<pause><lineend>
 <CC03EA><color=0000>Health<CC03EC>Restored<pause><lineend>
-<CC03EA><color=0000><CC03F7>�@<CC03F7><pause><lineend>
-<CC03EA><color=0000><CC03F7>�@<CC03EC>G<lineend><CC03F7><pause>
-<CC03EA><color=0000><CC03F7>�@<CC03EC>G<pause><lineend>
-<CC03EA><color=0000>Stomach Full<lineend><pause>
+<CC03EA><color=0000><CC03F7> <CC03F7><pause><lineend>
+<CC03EA><color=0000><CC03F7> <CC03EC>G<lineend><CC03F7><pause>
+<CC03EA><color=0000><CC03F7> <CC03EC>G<pause><lineend>
+<CC03EA><color=0000>Fully Satiated<lineend><pause>
 <CC03EA><color=0000>Max HP Increased<lineend><pause>
-<CC03EA><color=0000>Power Limitless!<lineend><pause>
+<CC03EA><color=0000>Unyielding Power<lineend><pause>
 <CC03EA><color=0000>Nothing happened<lineend><pause>
 
 
-Health Restore<lineend>
+Health Restored<lineend>
 Health & Power Boost<lineend>
 Power Boost<lineend>
-Full Health Restore & Power Boost<lineend>
+Health Fully Restored & Power Boosted<lineend>
 Health Halved For Power Boost<lineend>
 
 
 
 
 Temporary Invincibility<lineend>
-Feel No Pain<lineend>
+Suppress Pain<lineend>
 Eat Quickly<lineend>
-Attack Power UP<lineend>
-Defense Power UP<lineend>
-Attack Power 10% UP<lineend>
-Attack Power 20% UP<lineend>
-Attack Power 30% UP<lineend>
-Make More Critical Hits<lineend>
-Defense 20% UP<lineend>
-Defense 50% UP<lineend>
-Automatically Evade<lineend>
-Speed UP<lineend>
-Jump UP<lineend>
-Attacking Creates Coins<lineend>
-Double Jump Possible<lineend>
-Ice Defense UP<lineend>
-Fire Defense UP<lineend>
-Rebound Enemy Attacks<lineend>
-Attacking Enemies Freeze<lineend>
-Attacking Enemies Burn<lineend>
-No-Crouch Item Pick-Up<lineend>
-Defend Automaticaly<lineend>
+Temporary Attack Boost<lineend>
+Temporary Defense Boost<lineend>
+♀Attack Power 10% UP<lineend>
+♀Attack Power 20% UP<lineend>
+♀Attack Power 30% UP<lineend>
+♀More Frequent Critical Hits<lineend>
+♀Defense 20% UP<lineend>
+♀Defense 50% UP<lineend>
+♀Automatically Evade<lineend>
+♀Speed UP<lineend>
+♀Jump Power UP<lineend>
+♀Gold Reward Per Attack<lineend>
+♀Double Jump Enabled<lineend>
+♀Ice Resistance UP<lineend>
+♀Fire Resistance UP<lineend>
+♀Rebound Enemy Attacks<lineend>
+♀Freeze Enemies Touching Shield<lineend>
+♀Burn Enemies Touching Shield<lineend>
+♀Pick-up Items without Crouching<lineend>
+♀Defend Automaticaly<lineend>
 Unleash Petrification Beam<lineend>
-Shoot Fireballs<lineend>
-Call Down Lightening<lineend>
-Release Ice Arrows<lineend>
-Rain Down Meteors<lineend>
-Launch Holy Light<lineend>
+Unleash Fireballs<lineend>
+Unleash Thunder Pillars<lineend>
+Unleash Sharp Ice Arrows<lineend>
+Small Celestial Downpour<lineend>
+Unleash Blessed Light Arrows<lineend>
 
-Change Weak Enemies Into Animals<lineend>
-Imbue Sword With Magic<lineend>
-Make Enemies Defenseless<lineend>
-Put Distance Between Enemy<lineend>
-Summon Goblin Dive-Bomb<lineend>
-Burn Undead Enemies<lineend>
-Items Won't Break<lineend>
-Drop Boulder With Earthquake<lineend>
-Sword Gains Fire Magic<lineend>
-Sword Gains Lightening Magic<lineend>
-Turn Enemy Into Gold Statue<lineend>
-Double Attack On Enemies<lineend>
-Escape From Dungeon<lineend>
-Return To Last Save Point<lineend>
-Anti-Petrification<lineend>
-Cook Food<lineend>
+Transform Weak Enemies to Small Animals<lineend>
+Summon Enchanted Blade<lineend>
+Make Enemies Indefensible<lineend>
+Open Gap with Strong Wind<lineend>
+Goblin will Knock Enemy Over<lineend>
+Summon a Spirit<lineend>
+Equipment Unbreakable During Battle<lineend>
+Earthquake Shatters Boulders<lineend>
+Temporary Flame-Ablaze Blade<lineend>
+Temporary Thunder-Surged Blade<lineend>
+Transform Enemy to Solid Gold<lineend>
+Doppelgänger Doubles Attack Power by 2<lineend>
+Escape From Labyrinth<lineend>
+Return To Last Saved Place<lineend>
+Deflect Petrification Beams<lineend>
+Craft a Sizzling Delicacy<lineend>
 Make Soup<lineend>
-Restore Magic Stones<lineend>
-Strengthen Items<lineend>
-Remove Curse From Item<lineend>
-Restore Consumable Item<lineend>
-Check Item For Curse<lineend>
+Revitalize Stone's Magical Power< lineend>
+Strengthen Equipment<lineend>
+Lift Curse From Equipment<lineend>
+Renew Expended Equipment<lineend>
+Check for a Curse<lineend>
 Throwing Sword<lineend>
-Magic Throwing Sword<lineend>
-Throw At Flying Enemies<lineend>
+Enemy-Flipping Throwing Sword<lineend>
+Throwing Sword against Airborne Enemies<lineend>
 Explodes Where Dropped<lineend>
 Damage Undead Enemies<lineend>
 Throw At Enemies<lineend>
@@ -300,28 +300,28 @@ Throw At Enemies<lineend>
 
 
 Grows Where Planted<lineend>
-Food<lineend>
-Use To Make Magic Stone<lineend>
-Soup Spice<lineend>
-Cooking Spice<lineend>
-Use To Make Potions<lineend>
+Ingredient<lineend>
+Raw Magical Stone<lineend>
+Soup Seasoning<lineend>
+Grilling Seasoning<lineend>
+Medicinal ingredients<lineend>
 Stone Sought By Heindel<lineend>
-Use To Travel In Time<lineend>
-Piece Of Music Scroll<lineend>
-Young Wizard's Memento<lineend>
+Magical Stone to Return to the Future<lineend>
+Piece Of Music Inscription<lineend>
+Young Mage's Memento<lineend>
 Lost Key<lineend>
-Tip Is Broken<lineend>
-Senses Enemies<lineend>
-Lend A Hand In Battle<lineend>
+Sword's Tip is Broken<lineend>
+Reads Signs of an Enemy<lineend>
+Battle Assistance<lineend>
 Give Items During Battle<lineend>
 Give Potions During Battle<lineend>
-Combo Attack In Battle<lineend>
-Dispel Curses<lineend>
-Bombard Enemies In Battle<lineend>
-Offer Healing In Battle<lineend>
-Grow Healing Flower<lineend>
-Grow Power Flower<lineend>
-Grow Bomb Plant<lineend>
+Unleash Combo Attacks during Battle<lineend>
+Dispel Curses from Equipment<lineend>
+Summon Allies for a Group Assault<lineend>
+Uleash Healing Magic during Battle<lineend>
+Blossom a Healing Flower<lineend>
+Blossom a Power Restoring Flower<lineend>
+Bear a Bomb Fruit<lineend>
 
 
 
@@ -339,54 +339,54 @@ Grow Bomb Plant<lineend>
 
 
 
-<CC03EA><CC03F4>'s attack blocked!<pause><lineend>
-<CC03EA><CC03F4>'s attack evaded!<pause><lineend>
-<CC03EA>Evade Mode<pause><lineend>
-<CC03EA>Side-Step<pause><lineend>
-<CC03EA>Back-Step<pause><lineend>
-<CC03EA>Use Item<pause><lineend>
+<CC03EA><CC03F4>'s attack was parried<pause><lineend>
+<CC03EA><CC03F4>'s attack was evaded<pause><lineend>
+<CC03EA>Evasion Mode<pause><lineend>
+<CC03EA>Evade by Side-Stepping<pause><lineend>
+<CC03EA>Evade by Back-Stepping<pause><lineend>
+<CC03EA>Use an Item<pause><lineend>
 <CC03EA>Defend<pause><lineend>
-<CC03EA>No Power!<pause><lineend>
+<CC03EA>Not enough Power<pause><lineend>
 <CC03EA><CC03F4> is frozen!<pause><lineend>
 <CC03EA><CC03F4> is petrified!<pause><lineend>
 <CC03EA><CC03F4>'s attack evaded!<pause><lineend>
-<CC03EA><CC03F4>'s attack blocked!<pause><lineend>
-<CC03EA><CC03F4>'s attack unevaded!<pause><lineend>
-<CC03EA><CC03F4> knocked you back!<pause><lineend>
-<CC03EA><CC03F4> broke your defense!<pause><lineend>
-<CC03EA><CC03F4> attacked faster!<pause><lineend>
-<CC03EA><CC03F4> turned to gold!!<pause><lineend>
-<CC03EA><CC03F4> is breathing ice!<pause><lineend>
-<CC03EA><CC03F4> will throw sharp ice!<pause><lineend>
-<CC03EA><CC03F4> called his friends!<pause><lineend>
+<CC03EA><CC03F4>'s attack parried!<pause><lineend>
+<CC03EA><CC03F4>'s attack wasn't evaded!<pause><lineend>
+<CC03EA><CC03F4> repelled with an attack!<pause><lineend>
+<CC03EA><CC03F4> couldn't defend the attack!<pause><lineend>
+<CC03EA><CC03F4> pierced through the attack's gap!<pause><lineend>
+<CC03EA><CC03F4> transformed into solid gold!!<pause><lineend>
+<CC03EA><CC03F4> breathed Ice Breath!<pause><lineend>
+<CC03EA><CC03F4> has sharp ice!!<pause><lineend>
+<CC03EA><CC03F4> called upon friends!<pause><lineend>
 <CC03EA><CC03F4> ate a heart fruit<pause><lineend>
-<CC03EA>Poison has made items hard to see<pause><lineend>
-<CC03EA>Now more poisoned, hallucinating<pause><lineend>
-<CC03EA><CC03F4> is slowly closing in<pause><lineend>
-<CC03EA><CC03F4> summoned lightning<pause><lineend>
-<CC03EA><CC03F4>s are ganging up on you!<pause><lineend>
+<CC03EA>Poison's effects blurred your vision<pause><lineend>
+<CC03EA>More poisoned, poison's effects made hallucinations worse<pause><lineend>
+<CC03EA><CC03F4> has motioned to close in<pause><lineend>
+<CC03EA><CC03F4> summoned Thunder<pause><lineend>
+<CC03EA><CC03F4>s ganged up to beat you<pause><lineend>
 <CC03EA><CC03F4> have scattered your items<pause><lineend>
-<CC03EA><CC03F4>'s arrow hit its mark<pause><lineend>
-<CC03EA>His partner is up to something!<pause><lineend>
+<CC03EA><CC03F4>'s arrow hit the Whale<pause><lineend>
+<CC03EA>His partner is acting suspicious<pause><lineend>
 <CC03EA><CC03F4> ate some meat<pause><lineend>
 <CC03EA><CC03F4> waved a mysterious lamp<pause><lineend>
 <CC03EA><CC03F4> summoned a Banshee<pause><lineend>
-<CC03EA>Hit by the Banshee's arrow<pause><lineend>
-<CC03EA><CC03F4> took you to faraway seas<pause><lineend>
-<CC03EA>Body reverting back to normal.<pause><lineend>
+<CC03EA>Pierced by the Banshee's cursed arrow<pause><lineend>
+<CC03EA><CC03F4> took you to the Sea of Hell<pause><lineend>
+<CC03EA>Body part reverting back to normal.<pause><lineend>
 <CC03EA><CC03F4> used telekinesis<pause><lineend>
-<CC03EA><CC03F4> raised his beheading sword<pause><lineend>
-<CC03EA><CC03F4> caught you in his net<pause><lineend>
+<CC03EA><CC03F4> raised the beheading sword<pause><lineend>
+<CC03EA><CC03F4> engulfed by the net<pause><lineend>
 <CC03EA><CC03F4>started a whirlwind<pause><lineend>
 <CC03EA><CC03F4> has focused its energy<pause><lineend>
 <CC03EA><CC03F4> has taken a human form<pause><lineend>
-<CC03EA><CC03F4> is mad with rage!<pause><lineend>
-<CC03EA><CC03F4> is breathing fire<pause><lineend>
-<CC03EA><CC03F4> will blast you with fire<pause><lineend>
-<CC03EA><CC03F4> released evil magic<pause><lineend>
-<CC03EA><CC03F4> was sacrificed<pause><lineend>
+<CC03EA><CC03F4> is getting angry<pause><lineend>
+<CC03EA><CC03F4> breathed fire<pause><lineend>
+<CC03EA><CC03F4> has engulfed you with fire<pause><lineend>
+<CC03EA><CC03F4> unleashed evil magic power<pause><lineend>
+<CC03EA><CC03F4> was eaten by sacrifice<pause><lineend>
 <CC03EA><CC03F4> summoned poisonous snakes<pause><lineend>
-<CC03EA><CC03F4> summoned an ice devil<pause><lineend>
+<CC03EA><CC03F4> summoned an ice demon<pause><lineend>
 <CC03EA><CC03F4> has controlled the dead<pause><lineend>
 <CC03EA><CC03F4> summoned a ghost<pause><lineend>
 <CC03EA><CC03F4> summoned a beast<pause><lineend>
