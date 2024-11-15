@@ -12,9 +12,9 @@ You have no items!<lineend>
 Heart Fruit<lineend>
 Heart Fruit<lineend>
 Heart Fruit<lineend>
-Elikshil Fruit<lineend>
-Elikshil Fruit<lineend>
-Elikshil Fruit<lineend>
+Elixir Fruit<lineend>
+Elixir Fruit<lineend>
+Elixir Fruit<lineend>
 Yggdrasill Fruit<lineend>
 Yggdrasill Fruit<lineend>
 Yggdrasill Fruit<lineend>
@@ -170,7 +170,7 @@ Fish Bone<lineend>
 Broken Frying Pan<lineend>
 Broken Soup Pot<lineend>
 Empty Bottle<lineend>
-Elikshil Seed<lineend>
+Elixir Seed<lineend>
 Medicine Grass Seed<lineend>
 Power Plant Seed<lineend>
 Bomb Seed<lineend>
@@ -179,7 +179,7 @@ Dragon Meat<lineend>
 Raw Meat<lineend>
 Fish<lineend>
 Corn<lineend>
-Opal<lineend>
+Onyx<lineend>
 Ruby<lineend>
 Amethyst<lineend>
 Sapphire<lineend>
@@ -220,12 +220,12 @@ Cure Drop<lineend>
 
 <CC03EA><color=0000>All Health Restored<pause><lineend>
 <CC03EA><color=0000>Health<CC03EC>Restored<pause><lineend>
-<CC03EA><color=0000><CC03F7>Å@<CC03F7><pause><lineend>
-<CC03EA><color=0000><CC03F7>Å@<CC03EC>G<lineend><CC03F7><pause>
-<CC03EA><color=0000><CC03F7>Å@<CC03EC>G<pause><lineend>
+<CC03EA><color=0000><CC03F7> <CC03F7><pause><lineend>
+<CC03EA><color=0000><CC03F7> <CC03EC>G<lineend><CC03F7><pause>
+<CC03EA><color=0000><CC03F7> <CC03EC>G<pause><lineend>
 <CC03EA><color=0000>Stomach Full<lineend><pause>
 <CC03EA><color=0000>Max HP Increased<lineend><pause>
-<CC03EA><color=0000>Power Limitless!<lineend><pause>
+<CC03EA><color=0000>Infinite Power!<lineend><pause>
 <CC03EA><color=0000>Nothing happened<lineend><pause>
 
 
@@ -263,7 +263,7 @@ No-Crouch Item Pick-Up<lineend>
 Defend Automaticaly<lineend>
 Unleash Petrification Beam<lineend>
 Shoot Fireballs<lineend>
-Call Down Lightening<lineend>
+Call Down Lightning<lineend>
 Release Ice Arrows<lineend>
 Rain Down Meteors<lineend>
 Launch Holy Light<lineend>
@@ -277,7 +277,7 @@ Burn Undead Enemies<lineend>
 Items Won't Break<lineend>
 Drop Boulder With Earthquake<lineend>
 Sword Gains Fire Magic<lineend>
-Sword Gains Lightening Magic<lineend>
+Sword Gains Lightning Magic<lineend>
 Turn Enemy Into Gold Statue<lineend>
 Double Attack On Enemies<lineend>
 Escape From Dungeon<lineend>
@@ -302,8 +302,8 @@ Throw At Enemies<lineend>
 Grows Where Planted<lineend>
 Food<lineend>
 Use To Make Magic Stone<lineend>
-Soup Spice<lineend>
-Cooking Spice<lineend>
+Use With The Soup Pot<lineend>
+Use With The Frying Pan<lineend>
 Use To Make Potions<lineend>
 Stone Sought By Heindel<lineend>
 Use To Travel In Time<lineend>
@@ -351,10 +351,10 @@ Grow Bomb Plant<lineend>
 <CC03EA><CC03F4> is petrified!<pause><lineend>
 <CC03EA><CC03F4>'s attack evaded!<pause><lineend>
 <CC03EA><CC03F4>'s attack blocked!<pause><lineend>
-<CC03EA><CC03F4>'s attack unevaded!<pause><lineend>
+<CC03EA><CC03F4>'s attack not evaded!<pause><lineend>
 <CC03EA><CC03F4> knocked you back!<pause><lineend>
 <CC03EA><CC03F4> broke your defense!<pause><lineend>
-<CC03EA><CC03F4> attacked faster!<pause><lineend>
+<CC03EA><CC03F4> caught you off guard!<pause><lineend>
 <CC03EA><CC03F4> turned to gold!!<pause><lineend>
 <CC03EA><CC03F4> is breathing ice!<pause><lineend>
 <CC03EA><CC03F4> will throw sharp ice!<pause><lineend>
@@ -377,7 +377,7 @@ Grow Bomb Plant<lineend>
 <CC03EA><CC03F4> used telekinesis<pause><lineend>
 <CC03EA><CC03F4> raised his beheading sword<pause><lineend>
 <CC03EA><CC03F4> caught you in his net<pause><lineend>
-<CC03EA><CC03F4>started a whirlwind<pause><lineend>
+<CC03EA><CC03F4> started a whirlwind<pause><lineend>
 <CC03EA><CC03F4> has focused its energy<pause><lineend>
 <CC03EA><CC03F4> has taken a human form<pause><lineend>
 <CC03EA><CC03F4> is mad with rage!<pause><lineend>
@@ -424,20 +424,20 @@ Grow Bomb Plant<lineend>
 <CC03EA><color=0000>Familiar's Bag<lineend><pause>
 <CC03EA><color=0000>Event Item Bag<lineend><pause>
 <CC03EA><color=0000><CC03F7> has broken<lineend><pause>
-<CC03EA><color=0000><CC03F7> is dropped<lineend><pause>
+<CC03EA><color=0000><CC03F7> dropped<lineend><pause>
 <CC03EA><color=0000><CC03F7> is no longer effective<lineend><pause>
 
 
-<CC03EA>Sword!<lineend>Grant me strength and courage!!<pause><lineend>
+<CC03EA>Sword! Grant me strength<lineend> and courage!!<pause><lineend>
 <CC03EA>In the name of all mighty Queens!!<pause><lineend>
-<CC03EA>If I land another hit, I hope it's this one!<pause><lineend>
-<CC03EA>Did that hurt? This will put you out of your misery!!<pause><lineend>
-<CC03EA>I don't care who you are. You get in my way, you die!!<pause><lineend>
+<CC03EA>If I land another hit,<lineend>I hope it's this one!<pause><lineend>
+<CC03EA>Did that hurt? This will put you<lineend>out of your misery!!<pause><lineend>
+<CC03EA>I don't care who you are.<lineend>You get in my way, you die!!<pause><lineend>
 <CC03EA>Sword! Embody my anger!!<pause><lineend>
-<CC03EA>Here we go! This one's going to be full-blast!!<pause><lineend>
+<CC03EA>Here we go! This one's going to<lineend>be full-blast!!<pause><lineend>
 <CC03EA>It's been fun. Bye now!!<pause><lineend>
 <CC03EA>Enough! Just die already!!<pause><lineend>
-<CC03EA>You better hope this doesn't stick, or you're finished!<pause><lineend>
-<CC03EA>You almost had me. Now it's my turn!<pause><lineend>
-<CC03EA>You'll never beat me, if that's all you've got!<pause><lineend>
+<CC03EA>You better hope this doesn't<lineend>stick, or you're finished!<pause><lineend>
+<CC03EA>You almost had me.<lineend>Now it's my turn!<pause><lineend>
+<CC03EA>You'll never beat me,<lineend>if that's all you've got!<pause><lineend>
 <CC03F3=0000><CC03EA>I sense monsters nearby<pause><lineend>
