@@ -104,12 +104,12 @@ Pendant of Luck<lineend>
 Magical Pendant<lineend>
 Elf's Boots<lineend>
 Blinking Boots<lineend>
-Angel Boots<lineend>
+Angel's Boots<lineend>
 Refined Ring<lineend>
 Fliestone Ring<lineend>
 Burning Ring<lineend>
 Freezing Ring<lineend>
-Spiked Shield<lineend>
+Sharp Spiked Shield<lineend>
 Frozen-Eyed Shield<lineend>
 Infernal Dragon Shield<lineend>
 Thief's Bracer<lineend>
@@ -140,23 +140,23 @@ Goblin's Staff<lineend>
 Blessed Sigil<lineend>
 Gummi Inscription<lineend>
 Earthquake Inscription<lineend>
-Infernalflam Sword Inscription<lineend>
+Hellfire Sword Inscription<lineend>
 Thundergod's Sword Inscription<lineend>
 Alchemist's Inscription<lineend>
 Doppelgänger Inscription<lineend>
-Exit Inscription<lineend>
+Emergency Exit Inscription<lineend>
 Return Inscription<lineend>
-Stainless Inscription<lineend>
+Plating Inscription<lineend>
 Frying Pan<lineend>
-Soup Pot<lineend>
-Droplet of Mana<lineend>
-Equipment Boost Inscription<lineend>
-Dispel Inscription<lineend>
+Cooking Pot<lineend>
+Mana Droplets<lineend>
+Equipment Fortification Inscription<lineend>
+Curselifting Inscription<lineend>
 Restoration Inscription<lineend>
 ID Inscription<lineend>
 Warrior's Sword<lineend>
 Warrior's Sword<lineend>
-Warrior's Swowrd<lineend>
+Warrior's Sword<lineend>
 Magical Sword<lineend>
 Magical Sword<lineend>
 Magical Sword<lineend>
@@ -390,12 +390,12 @@ Bear a Bomb Fruit<lineend>
 <CC03EA><CC03F4> has controlled the dead<pause><lineend>
 <CC03EA><CC03F4> summoned a ghost<pause><lineend>
 <CC03EA><CC03F4> summoned a beast<pause><lineend>
-<CC03EA>A Bewitching Beauty...<pause><lineend>
-<CC03EA><CC03F4> focused magic in his claws<pause><lineend>
+<CC03EA>Bewitching Beauty Alraune was summoned...<pause><lineend>
+<CC03EA><CC03F4> focused magic power in the claws<pause><lineend>
 <CC03EA><CC03F4> threw a fireball<pause><lineend>
-<CC03EA><CC03F4> fired a strong beam<pause><lineend>
-<CC03EA>Another one wants his turn<pause><lineend>
-<CC03EA><CC03F4> is all busted up<pause><lineend>
+<CC03EA><CC03F4> emitted a powerful light beam<pause><lineend>
+<CC03EA>Malice shifted to a different target<pause><lineend>
+<CC03EA><CC03F4> broke its arm<pause><lineend>
 <CC03EA><CC03F4> summoned meteors<pause><lineend>
 <CC03EA><CC03F4> can't gaurd or evade<pause><lineend>
 <CC03EA><color=0000>Select an Equipment Item<lineend><pause>
