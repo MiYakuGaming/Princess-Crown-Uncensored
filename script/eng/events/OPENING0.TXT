@@ -1,0 +1,28 @@
+65536|
+<CC03EA><color=0001>"A long, long time ago,<lineend>there existed a Kingdom known as Valendia."<pause><lineend><CC03EA>"It was ruled by a sagacious and valiant Queen who maintained peace among her people."<pause><lineend><CC03EA>"However, one night, Demons suddenly attacked aiming at the Royal Castle..."<pause><lineend>|
+65537|
+<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>Where is she...<pause><lineend><CC03EA>Bring forth the Queen immediately.<lineend>Lord Demon King's revival requires Royal blood.<pause><lineend>|
+65538|
+<CC03EA><CC03FC=0004><string=007D><color=0001>Ugh...<lineend>I can't let that happen...<pause><lineend>|
+65539|
+<CC03EA><CC03FC=0004><string=007F>Lord Jestonai!<lineend>There are Monsters approaching this floor!<pause><lineend>|
+65540|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>星の輝きにかげりが見えたので<lineend>もしやと思っておったが・・・<pause><lineend><CC03EA>デーモンが闇の軍ぜいをともない<lineend>王城に乗り込んでくるとは。<pause><lineend><CC03EA>しかし、ここから先へは行かせん。<lineend>我が魔法で退けてくれるわ！<pause><lineend>|
+65541|
+<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>どうした？<lineend>この提度か・・・？<pause><lineend>|
+65542|
+<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>一人も逃がしはしない・・・<lineend>お前たちの命を魔王様にささげるのだ。<pause><lineend>|
+65543|
+<CC03EA><CC03FC=0004><string=007D><color=0001>この場はまかせて<lineend>ジェストナイ様はお下がりください！<pause><lineend>|
+65544|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>Demon!<lineend>I'm here!<pause><lineend>|
+65545|
+<CC03EA><CC03FC=0004><string=007F>Your Majesty!!<pause><lineend>|
+65546|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>...I won't allow it!<lineend>よくも騎士たちを傷つけてくれたな！<pause><lineend><CC03EA>我が剣にて打ち倒してくれようぞ！<pause><lineend>|
+65547|
+<CC03EA><CC03FC=0004><string=007D>今こそ、騎士の<lineend>勇気をしめす時！<pause><lineend><CC03EA>ゆくぞ！　陛下の盾となり<lineend>おまもりするのだ！！<pause><lineend>|
+65548|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>女王、魔法力すべてを<lineend>その剣にそそぎますぞ！<pause><lineend>|
+65549|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>魔王復活などという邪悪なもくろみは<lineend>必ずふせいで見せる。<pause><lineend><CC03EA>王家のつるぎが<lineend>いつの時代であろうとも・・・<pause><lineend>|
