@@ -1,7 +1,5 @@
 
-# Princess Crown Uncensored Translation GPL edition by MiYaku Gaming
-
-[old readme here](readme.txt.old)
+# Princess Crown Uncensored Translation GPL edition by 未訳・MiYaku Gaming
 
 This MiYaku Gaming's script re-write to keep Princess Crown uncensored, I will pull hacked updates from eadmaster's repository for better game functionality.
 Originally, I forked a very old and outdated version of CyberWarriorX's repository due to Translating Princess Crown on YouTube and helped eadmaster Translate the remaining lines.
@@ -16,18 +14,13 @@ eadmaster leftover:
 
 ## Current status
 
- - all story events, items and names translated
-   - using a fixed-width/monospaced font, with condensed spaces
-   - [glitches in some dialogs](https://github.com/eadmaster/pcrown/issues/1#issuecomment-2444241163)
-   - [missing some translated lines](https://github.com/eadmaster/pcrown/issues/4)
- - [missing translation for doorway signs](https://github.com/eadmaster/pcrown/issues/5)
- - needs play testing for bugs
+ - Currently working on Translation Drafts and play-testing before uploading local files.
 
 
 ## [FAQs](https://github.com/eadmaster/pcrown/wiki/FAQs)
 
 
-## Preview
+## Preview of eadmaster's version until I get my version moving along
 
 ![demo1](https://github.com/user-attachments/assets/b4116a9b-2410-474c-8ad0-a64bc6a2266b)  ![demo2](https://github.com/user-attachments/assets/1b0aebdf-efc6-4c21-9c32-ca81ddf03acd) ![383698647-7a4d755d-de7d-4819-b95d-4aa13da5a572](https://github.com/user-attachments/assets/b46dbcdc-2e41-4dc2-80cd-c29aa6d5eb0d)
 
@@ -41,7 +34,7 @@ eadmaster leftover:
   - [for Linux](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/_patch_eng.sh)
 
 
-## Manual patch instructions
+## Manual patch instructions for eadmaster's Censored version, it's the only one available to play as of now
 
 1. obtain a game image matching [these hashes](http://redump.org/disc/4901/), and extract it
 2. grab the latest xdelta patch from the [Releases section](https://github.com/eadmaster/pcrown/releases).
@@ -66,9 +59,8 @@ Contact me via discord or forums if you can contribute or have issues to report 
 **P.N.: any bit contributed will be re-shared in this repo under the terms of GPL-2.0.**
 
 
-# New contributors/Special thanks
+# New contributors/Special thanks, this applies to this version as well
 
  - [paul-met](https://github.com/paul-met) and [derek](https://github.com/DerekPascarella) ([short spaces and dialog fixes](https://github.com/eadmaster/pcrown/issues/1))
  - Spike and MLagaffe (bug reports)
- - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts](https://github.com/eadmaster/pcrown/issues/4))
 
