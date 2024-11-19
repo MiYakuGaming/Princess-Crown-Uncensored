@@ -1,28 +1,28 @@
 65536|
-<CC03EA><color=0001>"A long, long time ago,<lineend>there existed a Kingdom known as Valendia."<pause><lineend><CC03EA>"It was ruled by a sagacious and valiant Queen who maintained peace among her people."<pause><lineend><CC03EA>"However, one night, Demons suddenly attacked aiming at the Royal Castle..."<pause><lineend>|
+<CC03EA><color=0001>"A long, long time ago,<lineend>there existed a Kingdom known as Valendia."<pause><lineend><CC03EA>"It was ruled by a sagacious and valiant Queen who maintained peace among her people."<pause><lineend><CC03EA>"However, one night, Demons suddenly attacked with the Royal Castle in sight..."<pause><lineend>|
 65537|
-<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>Where is she...<pause><lineend><CC03EA>Bring forth the Queen immediately.<lineend>Lord Demon King's revival requires Royal blood.<pause><lineend>|
+<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>Where is she...<pause><lineend><CC03EA>Bring forth the Queen immediately.<lineend>The magnificent Demon King's revival requires Royal blood.<pause><lineend>|
 65538|
-<CC03EA><CC03FC=0004><string=007D><color=0001>Ugh...<lineend>I can't let that happen...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D><color=0001>Ugh...<lineend>We won't let that happen...<pause><lineend>|
 65539|
 <CC03EA><CC03FC=0004><string=007F>Lord Jestonai!<lineend>There are Monsters approaching this floor!<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>¯‚Ì‹P‚«‚É‚©‚°‚è‚ªŒ©‚¦‚½‚Ì‚Å<lineend>‚à‚µ‚â‚Æv‚Á‚Ä‚¨‚Á‚½‚ªEEE<pause><lineend><CC03EA>ƒf[ƒ‚ƒ“‚ªˆÅ‚ÌŒR‚º‚¢‚ğ‚Æ‚à‚È‚¢<lineend>‰¤é‚Éæ‚è‚ñ‚Å‚­‚é‚Æ‚ÍB<pause><lineend><CC03EA>‚µ‚©‚µA‚±‚±‚©‚çæ‚Ö‚Ís‚©‚¹‚ñB<lineend>‰ä‚ª–‚–@‚Å‘Ş‚¯‚Ä‚­‚ê‚é‚íI<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>ï»¿Because the faint outlines were visible in the stars' brilliance, I thought it would be easy but...<pause><lineend><CC03EA>Never did I expect a Demon to ride in with their army of darkness, aiming for the Royal Castle.<pause><lineend><CC03EA>However, you may not proceed beyond us.<lineend>Our magic will repel you!<pause><lineend>|
 65541|
-<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>‚Ç‚¤‚µ‚½H<lineend>‚±‚Ì’ñ“x‚©EEEH<pause><lineend>|
+<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>What's wrong?<lineend>Is that all...?<pause><lineend>|
 65542|
-<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>ˆêl‚à“¦‚ª‚µ‚Í‚µ‚È‚¢EEE<lineend>‚¨‘O‚½‚¿‚Ì–½‚ğ–‚‰¤—l‚É‚³‚³‚°‚é‚Ì‚¾B<pause><lineend>|
+<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>There's just no escaping alone...<pause><lineend><CC03EA>You will sacrifice your lives to the magnificent Demon King.<pause><lineend>|
 65543|
-<CC03EA><CC03FC=0004><string=007D><color=0001>‚±‚Ìê‚Í‚Ü‚©‚¹‚Ä<lineend>ƒWƒFƒXƒgƒiƒC—l‚Í‚¨‰º‚ª‚è‚­‚¾‚³‚¢I<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D><color=0001>Leave this area to me.<lineend>Lord Jestonai, please stand down!<pause><lineend>|
 65544|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>Demon!<lineend>I'm here!<pause><lineend>|
 65545|
 <CC03EA><CC03FC=0004><string=007F>Your Majesty!!<pause><lineend>|
 65546|
-<CC03EA><color=0004><string=00FF><lineend><color=0001>...I won't allow it!<lineend>‚æ‚­‚à‹Rm‚½‚¿‚ğ‚Â‚¯‚Ä‚­‚ê‚½‚ÈI<pause><lineend><CC03EA>‰ä‚ªŒ•‚É‚Ä‘Å‚¿“|‚µ‚Ä‚­‚ê‚æ‚¤‚¼I<pause><lineend>|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>...I won't allow it!<pause><lineend><CC03EA>You've even managed to injure my fucking Knights!<pause><lineend><CC03EA>My Sword will obliterate you!<pause><lineend>|
 65547|
-<CC03EA><CC03FC=0004><string=007D>¡‚±‚»A‹Rm‚Ì<lineend>—E‹C‚ğ‚µ‚ß‚·I<pause><lineend><CC03EA>‚ä‚­‚¼I@•Ã‰º‚Ì‚‚Æ‚È‚è<lineend>‚¨‚Ü‚à‚è‚·‚é‚Ì‚¾II<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>Now, show your courage here, Knights!<pause><lineend><CC03EA>Let's go! <lineend>We are here to be the shield and protect our Queen!!<pause><lineend>|
 65548|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>—‰¤A–‚–@—Í‚·‚×‚Ä‚ğ<lineend>‚»‚ÌŒ•‚É‚»‚»‚¬‚Ü‚·‚¼I<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>Queen, I will imbue your Sword with all my Magic!<pause><lineend>|
 65549|
-<CC03EA><color=0004><string=00FF><lineend><color=0001>–‚‰¤•œŠˆ‚È‚Ç‚Æ‚¢‚¤×ˆ«‚È‚à‚­‚ë‚İ‚Í<lineend>•K‚¸‚Ó‚¹‚¢‚ÅŒ©‚¹‚éB<pause><lineend><CC03EA>‰¤‰Æ‚Ì‚Â‚é‚¬‚ª<lineend>‚¢‚Â‚Ì‘ã‚Å‚ ‚ë‚¤‚Æ‚àEEE<pause><lineend>|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>The Demon King's evil plot for revival will likely be exposed.<pause><lineend><CC03EA>The Royal Sword will be accompanied at any era.<pause><lineend>|
