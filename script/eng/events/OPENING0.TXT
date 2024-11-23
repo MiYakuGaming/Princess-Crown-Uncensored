@@ -7,7 +7,7 @@
 65539|
 <CC03EA><CC03FC=0004><string=007F>Lord Jestonai!<lineend>There are Monsters approaching this floor!<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>﻿Because the faint outlines were visible in the stars' brilliance, I thought it would be easy but...<pause><lineend><CC03EA>Never did I expect a Demon to ride in with their army of darkness, aiming for the Royal Castle.<pause><lineend><CC03EA>However, you may not proceed beyond us.<lineend>Our magic will repel you!<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>﻿Against the brilliance of stars, I pondered whether faint shadows were an illusion.<pause><lineend><CC03EA>A Demon accompanies an Army of Darkness as they ride towards the Royal Castle.<pause><lineend><CC03EA>However, you may not proceed beyond us.<lineend>Our magic will repel you!<pause><lineend>|
 65541|
 <CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>What's wrong?<lineend>Is that all...?<pause><lineend>|
 65542|
@@ -25,4 +25,4 @@
 65548|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>Queen, I will imbue your Sword with all my Magic!<pause><lineend>|
 65549|
-<CC03EA><color=0004><string=00FF><lineend><color=0001>The Demon King's evil plot for revival will likely be exposed.<pause><lineend><CC03EA>The Royal Sword will be accompanied at any era.<pause><lineend>|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>The Demon King's evil plot for revival will likely be exposed.<pause><lineend><CC03EA>In which era will the Royal Family's Sword emerge?<pause><lineend>|
