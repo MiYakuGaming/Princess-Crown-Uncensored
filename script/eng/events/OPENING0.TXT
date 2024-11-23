@@ -19,7 +19,7 @@
 65545|
 <CC03EA><CC03FC=0004><string=007F>Your Majesty!!<pause><lineend>|
 65546|
-<CC03EA><color=0004><string=00FF><lineend><color=0001>...I won't allow it!<pause><lineend><CC03EA>You've even managed to injure my fucking Knights!<pause><lineend><CC03EA>My Sword will obliterate you!<pause><lineend>|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>...I won't allow it!<pause><lineend><CC03EA>﻿Fuck you, you're responsible for injuring my Knights!<pause><lineend><CC03EA>You'll be killed by my Sword!<pause><lineend>|
 65547|
 <CC03EA><CC03FC=0004><string=007D>Now, show your courage here, Knights!<pause><lineend><CC03EA>Let's go! <lineend>We are here to be the shield and protect our Queen!!<pause><lineend>|
 65548|
