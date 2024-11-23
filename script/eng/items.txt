@@ -138,22 +138,22 @@ Curseweaver's Staff<lineend>
 Windmage's Staff<lineend>
 Goblin's Staff<lineend>
 Blessed Sigil<lineend>
-Gummi Inscription<lineend>
-Earthquake Inscription<lineend>
-Hellfire Sword Inscription<lineend>
-Thundergod's Sword Inscription<lineend>
-Alchemist's Inscription<lineend>
-Doppelgänger Inscription<lineend>
-Emergency Exit Inscription<lineend>
-Return Inscription<lineend>
-Plating Inscription<lineend>
+Gummi Scroll<lineend>
+Earthquake Scroll<lineend>
+Hellfire Sword Scroll<lineend>
+Thundergod's Sword Scroll<lineend>
+Alchemist's Scroll<lineend>
+Mirror Image Scroll<lineend>
+Emergency Exit Scroll<lineend>
+Return Scroll<lineend>
+Reflect Scroll<lineend>
 Frying Pan<lineend>
 Cooking Pot<lineend>
 Mana Droplets<lineend>
-Equipment Fortification Inscription<lineend>
-Curselifting Inscription<lineend>
-Restoration Inscription<lineend>
-ID Inscription<lineend>
+Equipment Fortification Scroll<lineend>
+Curselifting Scroll<lineend>
+Restoration Scroll<lineend>
+Exposure Scroll<lineend>
 Warrior's Sword<lineend>
 Warrior's Sword<lineend>
 Warrior's Sword<lineend>
@@ -193,14 +193,14 @@ Soup Spice<lineend>
 Soup Spice<lineend>
 Insect Powder<lineend>
 Round-Leafed Grass<lineend>
-Jagged-Leaf Grass<lineend>
+Jagged-Leafed Grass<lineend>
 Sharp-Leafed Grass<lineend>
 Magical Earth Stone<lineend>
 Space-Time Magical Stone<lineend>
 Music Score 1<lineend>
 Music Score 2<lineend>
 Music Score 3<lineend>
-Folding Ring<lineend>
+Memento Ring<lineend>
 Ancient Key<lineend>
 Broken Sword<lineend>
 Magical Sun Stone<lineend>
@@ -223,7 +223,7 @@ Cure Drop<lineend>
 <CC03EA><color=0000><CC03F7> <CC03F7><pause><lineend>
 <CC03EA><color=0000><CC03F7> <CC03EC>G<lineend><CC03F7><pause>
 <CC03EA><color=0000><CC03F7> <CC03EC>G<pause><lineend>
-<CC03EA><color=0000>Fully Satiated<lineend><pause>
+<CC03EA><color=0000>Your Stomach is Full<lineend><pause>
 <CC03EA><color=0000>Max HP Increased<lineend><pause>
 <CC03EA><color=0000>Unyielding Power<lineend><pause>
 <CC03EA><color=0000>Nothing happened<lineend><pause>
@@ -307,7 +307,7 @@ Grilling Seasoning<lineend>
 Medicinal ingredients<lineend>
 Stone Sought By Heindel<lineend>
 Magical Stone to Return to the Future<lineend>
-Piece Of Music Inscription<lineend>
+Piece Of Music Scroll<lineend>
 Young Mage's Memento<lineend>
 Lost Key<lineend>
 Sword's Tip is Broken<lineend>
