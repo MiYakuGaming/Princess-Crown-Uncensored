@@ -13,32 +13,32 @@
 6|
 <CC03ED=0000001B00010000><CC03ED=0000001C000103FF><CC03ED=0199004400010000><CC03ED=01990045000103FF><CC03ED=01990046000103FF><CC03EA><color=0004><string=0199><lineend><color=0005>Press the C Button while Crouching<color=0001> to perform a <color=0002>Dash Attack.<lineend><CC03ED=01990045000103FF><pause><CC03EA><CC03ED=01990046000103FF>﻿You should be able to reconnect with your distant enemy.<lineend><CC03ED=01990045000103FF><pause><CC03EA><CC03ED=01990046000103FF>Well, let's give it another go.<lineend><CC03F1=0199><CC03F1=0000><pause>|
 7|
-<CC03ED=0000001B00010000><CC03ED=0000001C000103FF><CC03ED=0199004400010000><CC03ED=01990045000103FF><CC03ED=01990046000103FF><CC03EA><color=0004><string=0199><lineend><color=0001>You're getting better, your Majesty.<lineend><CC03ED=01990045000103FF><pause><CC03EA><CC03ED=01990046000103FF>Whenever there is enough distance between you and your enemy...<lineend><CC03ED=01990045000103FF><pause><CC03EA><CC03ED=01990046000103FF>...it's a good idea to eat something and recover any damage.<lineend><CC03ED=01990045000103FF><pause><CC03EA><CC03ED=01990046000103FF>Let's try it one more time.<lineend><CC03F1=0199><CC03F1=0000><pause>|
+<CC03ED=0000001B00010000><CC03ED=0000001C000103FF><CC03ED=0199004400010000><CC03ED=01990045000103FF><CC03ED=01990046000103FF><CC03EA><color=0004><string=0199><lineend><color=0001>Your battle prowess ascends, your Majesty.<lineend><CC03ED=01990045000103FF><pause><CC03EA><CC03ED=01990046000103FF>When your enemy is defeated or far...<lineend><CC03ED=01990045000103FF><pause><CC03EA><CC03ED=01990046000103FF>...eat a bit to restore some of your strength<lineend><CC03ED=01990045000103FF><pause><CC03EA><CC03ED=01990046000103FF>Well, let's give it another go.<lineend><CC03F1=0199><CC03F1=0000><pause>|
 8|
-<CC03ED=0000001B00010000><CC03ED=0000001C000103FF><CC03ED=0199004400010000><CC03ED=01990045000103FF><CC03ED=01990046000103FF><CC03EA><color=0004><string=0199><lineend><color=0001>Keep in mind everything you've learned. Good luck!<lineend><CC03F1=0199><CC03F1=0000><pause>|
+<CC03ED=0000001B00010000><CC03ED=0000001C000103FF><CC03ED=0199004400010000><CC03ED=01990045000103FF><CC03ED=01990046000103FF><CC03EA><color=0004><string=0199><lineend><color=0001>Your Majesty, remember this advice well.<lineend><CC03F1=0199><CC03F1=0000><pause>|
 9|
-<CC03ED=0000001B00010000><CC03ED=0000001C000103FF><CC03ED=0199004400010000><CC03ED=01990045000103FF><CC03ED=01990046000103FF><CC03EA><color=0004><string=0199><lineend><color=0001>Keep in mind everything you've learned. Good luck!<lineend><CC03F1=0199><CC03F1=0000><pause>|
+<CC03ED=0000001B00010000><CC03ED=0000001C000103FF><CC03ED=0199004400010000><CC03ED=01990045000103FF><CC03ED=01990046000103FF><CC03EA><color=0004><string=0199><lineend><color=0001>Your Majesty, remember this advice well.<lineend><CC03F1=0199><CC03F1=0000><pause>|
 10|
 <CC03ED=0199007700010000><CC03FB=0014>|
 11|
 <CC03F2=000000880000001403FF000003FF><CC03F2=019900500000001A03FF00000000><CC03F9=0000>|
 12|
-<CC03ED=0000001B00010000><CC03ED=0000001C000103FF><CC03ED=0199004400010000><CC03ED=01990045000103FF><CC03ED=01990046000103FF><CC03EA><color=0004><string=0199><lineend><color=0001>You've improved, your Highness. I must say, I'm very impressed!<lineend><CC03ED=01990045000103FF><pause><CC03EA><CC03ED=01990046000103FF>At your level of skill, the monsters in this area shouldn't give you any trouble.<lineend><CC03F1=0199><CC03F1=0000><pause>|
+<CC03ED=0000001B00010000><CC03ED=0000001C000103FF><CC03ED=0199004400010000><CC03ED=01990045000103FF><CC03ED=01990046000103FF><CC03EA><color=0004><string=0199><lineend><color=0001>Your Majesty, you've made remarkable progress.<lineend>I, Kwein, am impressed!<lineend><CC03ED=01990045000103FF><pause><CC03EA><CC03ED=01990046000103FF>By judging this Sword, there's a chance you may lose to the Monsters around here too.<lineend><CC03F1=0199><CC03F1=0000><pause>|
 13|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>A splendid fight, your Majesty.<pause><lineend><CC03EA>Now that your training is finished, let's get you back to your room.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>﻿Excellent, Your Majesty.<pause><lineend><CC03EA>Well then, let us return to your Chambers.<pause><lineend>|
 14|
 <CC03F2=000000880001000A03FF000003FF><CC03F2=00FD00030001000A03FF00000000>|
 65536|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>It's important to get as much out of your lessons with Sir Kwein as you can.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Well then, Your Majesty, ensure you have practiced when you meet Sir Kwein.<pause><lineend>|
 131072|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Queen, Queen!<pause><lineend><CC03EA>How was it?<lineend>I've returned.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Queen, Queen!<pause><lineend><CC03EA>How was it?<lineend>I will return.<pause><lineend>|
 131073|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I'm sorry.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Sorry.<pause><lineend>|
 131074|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Majesty, you've trained hard today.<pause><lineend><CC03EA>Please don't let that business about Dorangora trouble you.<pause><lineend><CC03EA>Just leave it up to the Knight Guard, and everything will be fine.<pause><lineend><CC03EA>Have a good night's rest.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>﻿Your Majesty, today you have worked hard.<pause><lineend><CC03EA>Please do not concern yourself with Drangola's affairs.<pause><lineend><CC03EA>﻿If you entrust the Card Knight Army with it, everything will proceed well.<pause><lineend><CC03EA>Well, it's already time to rest.<pause><lineend>|
 131075|
-<CC03EA><color=0002><string=0000><lineend><color=0001>All right. I'll try to forget about it for now.<pause><lineend><CC03EA>Good night, Jestonai.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Eeh...understood.<pause><lineend><CC03EA>Good night...<pause><lineend>|
 131076|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Good night, your Majesty.<pause><lineend>|
 131077|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai...I want to be like my Mother. I need to see the world.<pause><lineend><CC03EA>I haven't been able to think about anything else since my coronation.<pause><lineend><CC03EA>I just can't sit still any longer.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai...I want to be like my Mother and see the world.<pause><lineend><CC03EA>﻿Since the day I was Crowned, my mind has been filled with endless worries.<pause><lineend><CC03EA>I can no longer stand still.<pause><lineend>|
