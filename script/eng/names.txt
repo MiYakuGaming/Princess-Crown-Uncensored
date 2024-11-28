@@ -1,122 +1,122 @@
 Gradriel<lineend>
 Edward<lineend>
 Proserpina<lineend>
-Portgus<lineend>
+Portgas<lineend>
 
-Young Man<lineend>
+Young Person<lineend>
 Traveler<lineend>
-Woman<lineend>
-Lanky Man<lineend>
-Fat Man<lineend>
-Man<lineend>
+Grandmother<lineend>
+Tall Old Man<lineend>
+Old Fat Man<lineend>
+Old Man<lineend>
 Old Woman<lineend>
 Boy<lineend>
-Little Girl<lineend>
-Young Lady<lineend>
 Girl<lineend>
-Young Man<lineend>
-Warrior<lineend>
-Guard<lineend>
-Wizard<lineend>
-Merchant<lineend>
-Sailor<lineend>
-Friar<lineend>
-Official<lineend>
+Young Girl<lineend>
+娘<lineend>
+青年<lineend>
+Knight<lineend>
+Mercenary<lineend>
+Magician<lineend>
+商人<lineend>
+水夫<lineend>
+修道士<lineend>
+Servant<lineend>
 Maid<lineend>
-Knight Guardsman<lineend>
+Card Knight<lineend>
 Holy Knight<lineend>
 Priest<lineend>
 Witch<lineend>
-Suspicious Man<lineend>
+Mysterious Man<lineend>
 Dwarf<lineend>
 Goblin<lineend>
 Ghost<lineend>
 Ghoul<lineend>
-Doh Doh<lineend>
-Gold Doh Doh<lineend>
-Frog<lineend>
+Dodo<lineend>
+Golden Dodo<lineend>
+Frogger<lineend>
 Myconid<lineend>
 Goat<lineend>
 Hamster<lineend>
 Nilus<lineend>
 Horse<lineend>
 Parrot<lineend>
-Tabatha<lineend>
-Warriors' Leader<lineend>
-Wizards' Leader<lineend>
-Gild Leader<lineend>
-Liar<lineend>
-Mayor<lineend>
+Tabitha<lineend>
+戦士の長<lineend>
+魔術師の長<lineend>
+ギルドの長<lineend>
+ライアー<lineend>
+村長<lineend>
 Dwarf King<lineend>
-Etherson<lineend>
+Ellyllon<lineend>
 Halloween<lineend>
-Captain<lineend>
-Court Lady<lineend>
-Wandering Poet<lineend>
+船長<lineend>
+女官長<lineend>
+吟遊詩人<lineend>
 Sleepy<lineend>
 Smiley<lineend>
-Bulionia<lineend>
-Grandma<lineend>
-Donfan<lineend>
+Bryony<lineend>
+オババ<lineend>
+ドンファン<lineend>
 Leon<lineend>
 Aria<lineend>
-Ignis<lineend>
+イグニス<lineend>
 Drake<lineend>
 Eriel<lineend>
-Sidrael<lineend>
+Shidrael<lineend>
 Jestonai<lineend>
-Elfaran<lineend>
+Elfalan<lineend>
 Kwein<lineend>
 Golgotha<lineend>
 Heindel<lineend>
 Jadis<lineend>
-Necro-Samantha<lineend>
+Necro Samantha<lineend>
 Ondine<lineend>
-Faras<lineend>
+ファーラス<lineend>
 Forbidden Book<lineend>
 Larva<lineend>
-Wizard<lineend>
+Sorcerer<lineend>
 Demon King Volgrod<lineend>
-Dark God Larva<lineend>
+Evil Demon King Ralva<lineend>
 Demon King<lineend>
 Bloody<lineend>
 Bloody<lineend>
 Unicorn<lineend>
-Little Unicorn<lineend>
+Unicorn's Child<lineend>
 Dragon<lineend>
 Sorceress<lineend>
-Parson<lineend>
-Bighook the Pirate<lineend>
-Phony<lineend>
-Skulg<lineend>
+パーソン<lineend>
+Pirate Bighook<lineend>
+Thief<lineend>
+スカルグ<lineend>
 Shadow<lineend>
-Despair<lineend>
+ディスパイアー<lineend>
 Black Dragon<lineend>
-Flunkie #1<lineend>
-Flunkie #2<lineend>
-Flunkie #3<lineend>
-Flunkie #4<lineend>
+子分その１<lineend>
+子分その２<lineend>
+子分その３<lineend>
+子分その４<lineend>
 Demon<lineend>
-Pirate<lineend>
-Pirate<lineend>
-King of the Dead<lineend>
-Niohoggr<lineend>
-Centaur<lineend>
-Doppelganger<lineend>
+盗賊<lineend>
+盗賊<lineend>
+死者の王<lineend>
+ニーズホック<lineend>
+Centaurus<lineend>
+ドッペルゲンガー<lineend>
 Barbarian<lineend>
 Ochre Jelly<lineend>
 Shadow<lineend>
 Basilisk<lineend>
 Tarantula<lineend>
-Griffon<lineend>
+Gryphon<lineend>
 Geist Armor<lineend>
 Siren<lineend>
 Poltergeist<lineend>
 Ice Dragon<lineend>
 Goblin<lineend>
 Chaotic Eye<lineend>
-Bighook the Pirate<lineend>
-Edward<lineend>
+Pirate Bighook<lineend>
+Hero Edward<lineend>
 Evil Gradriel<lineend>
 Evil Eriel<lineend>
 Evil Golgotha<lineend>
@@ -124,8 +124,8 @@ Princess Gradriel<lineend>
 Slavewood<lineend>
 Gabriel<lineend>
 Goddess Gaia<lineend>
-Duck<lineend>
-Chick<lineend>
-Jesse<lineend>
+アヒル<lineend>
+ヒヨコ<lineend>
+Jessie<lineend>
 Fairy<lineend>
-Kasper<lineend>
+カスパール<lineend>
