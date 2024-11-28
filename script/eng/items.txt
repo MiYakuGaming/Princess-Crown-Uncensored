@@ -63,21 +63,21 @@ Fresh Milk<lineend>
 Goblin Juice<lineend>
 Goblin Juice<lineend>
 Goblin Juice<lineend>
-Invincible Medicine<lineend>
-Invincible Medicine<lineend>
-Invincible Medicine<lineend>
-Resilience Medicine<lineend>
-Resilience Medicine<lineend>
-Resilience Medicine<lineend>
-Stomach Medicine<lineend>
-Stomach Medicine<lineend>
-Stomach Medicine<lineend>
-Stamina Medicine<lineend>
-Stamina Medicine<lineend>
-Stamina Medicine<lineend>
-Endurance Medicine<lineend>
-Endurance Medicine<lineend>
-Endurance Medicine<lineend>
+Invincible Salve<lineend>
+Invincible Salve<lineend>
+Invincible Salve<lineend>
+Resilience Salve<lineend>
+Resilience Salve<lineend>
+Resilience Salve<lineend>
+Stomach Salve<lineend>
+Stomach Salve<lineend>
+Stomach Salve<lineend>
+Stamina Salve<lineend>
+Stamina Salve<lineend>
+Stamina Salve<lineend>
+Endurance Salve<lineend>
+Endurance Salve<lineend>
+Endurance Salve<lineend>
 Warrior's Glove<lineend>
 Ogre's Glove<lineend>
 Silver Gauntlet<lineend>
@@ -154,9 +154,9 @@ Equipment Fortification Scroll<lineend>
 Curselifting Scroll<lineend>
 Restoration Scroll<lineend>
 Exposure Scroll<lineend>
-Warrior's Sword<lineend>
-Warrior's Sword<lineend>
-Warrior's Sword<lineend>
+Warrior's Sword<lineend><lineend>
+Warrior's Sword<lineend><lineend>
+Warrior's Sword<lineend><lineend>
 Magical Sword<lineend>
 Magical Sword<lineend>
 Magical Sword<lineend>
@@ -173,7 +173,7 @@ Empty Bottle<lineend>
 Elixir Seed<lineend>
 Herbal Seed<lineend>
 Essence Seed<lineend>
-Bomb Grass Seed<lineend>
+Grass Bomb Seed<lineend>
 Dodo's Egg<lineend>
 Dragon Meat<lineend>
 Raw Meat<lineend>
@@ -219,7 +219,7 @@ Cure Drop<lineend>
 
 
 <CC03EA><color=0000>Health Fully Restored<pause><lineend>
-<CC03EA><color=0000>Health<CC03EC>Restored<pause><lineend>
+<CC03EA><color=0000>restores<CC03EC>Health<pause><lineend>
 <CC03EA><color=0000><CC03F7> <CC03F7><pause><lineend>
 <CC03EA><color=0000><CC03F7> <CC03EC>G<lineend><CC03F7><pause>
 <CC03EA><color=0000><CC03F7> <CC03EC>G<pause><lineend>
@@ -229,7 +229,7 @@ Cure Drop<lineend>
 <CC03EA><color=0000>Nothing happened<lineend><pause>
 
 
-Health Restored<lineend>
+Restores Health<lineend>
 Health & Power Boost<lineend>
 Power Boost<lineend>
 Health Fully Restored & Power Boosted<lineend>
@@ -239,7 +239,7 @@ Health Halved For Power Boost<lineend>
 
 
 Temporary Invincibility<lineend>
-Suppress Pain<lineend>
+Suppresses Pain<lineend>
 Eat Quickly<lineend>
 Temporary Attack Boost<lineend>
 Temporary Defense Boost<lineend>
@@ -260,7 +260,7 @@ Temporary Defense Boost<lineend>
 ♀Freeze Enemies Touching Shield<lineend>
 ♀Burn Enemies Touching Shield<lineend>
 ♀Pick-up Items without Crouching<lineend>
-♀Defend Automaticaly<lineend>
+♀Automatically Defends<lineend>
 Unleash Petrification Beam<lineend>
 Unleash Fireballs<lineend>
 Unleash Thunder Pillars<lineend>
@@ -274,12 +274,12 @@ Make Enemies Indefensible<lineend>
 Open Gap with Strong Wind<lineend>
 Goblin will Knock Enemy Over<lineend>
 Summon a Spirit<lineend>
-Equipment Unbreakable During Battle<lineend>
+Equipment is Indestructible During Battle<lineend>
 Earthquake Shatters Boulders<lineend>
-Temporary Flame-Ablaze Blade<lineend>
-Temporary Thunder-Surged Blade<lineend>
+Temporarily Enflames Blade<lineend>
+Temporarily Thunder-Surges Blade<lineend>
 Transform Enemy to Solid Gold<lineend>
-Doppelgänger Doubles Attack Power by 2<lineend>
+Mirror Image Doubles Attack Power by 2<lineend>
 Escape From Labyrinth<lineend>
 Return To Last Saved Place<lineend>
 Deflect Petrification Beams<lineend>
@@ -290,12 +290,12 @@ Strengthen Equipment<lineend>
 Lift Curse From Equipment<lineend>
 Renew Expended Equipment<lineend>
 Check for a Curse<lineend>
-Throwing Sword<lineend>
+Used as a Throwing Sword<lineend>
 Enemy-Flipping Throwing Sword<lineend>
 Throwing Sword against Airborne Enemies<lineend>
 Explodes Where Dropped<lineend>
 Damage Undead Enemies<lineend>
-Throw At Enemies<lineend>
+For Throwing at Enemies<lineend>
 
 
 
@@ -304,7 +304,7 @@ Ingredient<lineend>
 Raw Magical Stone<lineend>
 Soup Seasoning<lineend>
 Grilling Seasoning<lineend>
-Medicinal ingredients<lineend>
+Medicinal ingredient<lineend>
 Stone Sought By Heindel<lineend>
 Magical Stone to Return to the Future<lineend>
 Piece Of Music Scroll<lineend>
@@ -321,7 +321,7 @@ Summon Allies for a Group Assault<lineend>
 Uleash Healing Magic during Battle<lineend>
 Blossom a Healing Flower<lineend>
 Blossom a Power Restoring Flower<lineend>
-Bear a Bomb Fruit<lineend>
+Grows a Bomb Fruit<lineend>
 
 
 
@@ -339,7 +339,7 @@ Bear a Bomb Fruit<lineend>
 
 
 
-<CC03EA><CC03F4>'s attack was parried<pause><lineend>
+<CC03EA><CC03F4>'s attack was repelled<pause><lineend>
 <CC03EA><CC03F4>'s attack was evaded<pause><lineend>
 <CC03EA>Evasion Mode<pause><lineend>
 <CC03EA>Evade by Side-Stepping<pause><lineend>
@@ -349,23 +349,23 @@ Bear a Bomb Fruit<lineend>
 <CC03EA>Not enough Power<pause><lineend>
 <CC03EA><CC03F4> is frozen!<pause><lineend>
 <CC03EA><CC03F4> is petrified!<pause><lineend>
-<CC03EA><CC03F4>'s attack evaded!<pause><lineend>
-<CC03EA><CC03F4>'s attack parried!<pause><lineend>
+<CC03EA><CC03F4>'s attack was evaded!<pause><lineend>
+<CC03EA><CC03F4>'s attack was repelled!<pause><lineend>
 <CC03EA><CC03F4>'s attack wasn't evaded!<pause><lineend>
-<CC03EA><CC03F4> repelled with an attack!<pause><lineend>
-<CC03EA><CC03F4> couldn't defend the attack!<pause><lineend>
-<CC03EA><CC03F4> pierced through the attack's gap!<pause><lineend>
+<CC03EA><CC03F4><lineend> repelled with an attack!<pause><lineend>
+<CC03EA><CC03F4><lineend> couldn't defend the attack!<pause><lineend>
+<CC03EA><CC03F4><lineend> pierced through the attack's gap!<pause><lineend>
 <CC03EA><CC03F4> transformed into solid gold!!<pause><lineend>
 <CC03EA><CC03F4> breathed Ice Breath!<pause><lineend>
 <CC03EA><CC03F4> has sharp ice!!<pause><lineend>
 <CC03EA><CC03F4> called upon friends!<pause><lineend>
-<CC03EA><CC03F4> ate a heart fruit<pause><lineend>
-<CC03EA>Poison's effects blurred your vision<pause><lineend>
-<CC03EA>More poisoned, poison's effects made hallucinations worse<pause><lineend>
-<CC03EA><CC03F4> has motioned to close in<pause><lineend>
-<CC03EA><CC03F4> summoned Thunder<pause><lineend>
+<CC03EA><CC03F4><lineend> ate a heart fruit<pause><lineend>
+<CC03EA><lineend>Poison's effects blurred your vision<pause><lineend>
+<CC03EA><lineend>Poisoned more, Poison's effects made hallucinations worse<pause><lineend>
+<CC03EA><CC03F4><lineend> has motioned to close in<pause><lineend>
+<CC03EA><CC03F4><lineend> summoned Thunder<pause><lineend>
 <CC03EA><CC03F4>s ganged up to beat you<pause><lineend>
-<CC03EA><CC03F4> have scattered your items<pause><lineend>
+<CC03EA><CC03F4><lineend> have scattered your items<pause><lineend>
 <CC03EA><CC03F4>'s arrow hit the Whale<pause><lineend>
 <CC03EA>His partner is acting suspicious<pause><lineend>
 <CC03EA><CC03F4> ate some meat<pause><lineend>
@@ -423,13 +423,13 @@ Bear a Bomb Fruit<lineend>
 <CC03EA><color=0000>Spare Bag<lineend><pause>
 <CC03EA><color=0000>Familiar's Bag<lineend><pause>
 <CC03EA><color=0000>Event Item Bag<lineend><pause>
-<CC03EA><color=0000><CC03F7> has broken<lineend><pause>
-<CC03EA><color=0000><CC03F7> is dropped<lineend><pause>
+<CC03EA><color=0000><CC03F7> is broken<lineend><pause>
+<CC03EA><color=0000><CC03F7> has dropped out<lineend><pause>
 <CC03EA><color=0000><CC03F7> is no longer effective<lineend><pause>
 
 
-<CC03EA>Sword!<lineend>Grant me strength and courage!!<pause><lineend>
-<CC03EA>In the name of all mighty Queens!!<pause><lineend>
+<CC03EA>Sword!<lineend>Grant me Courage and Strength!!<pause><lineend>
+<CC03EA>I cannot lose.<lineend>For honor of the Queen's name!!<pause><lineend>
 <CC03EA>If I land another hit, I hope it's this one!<pause><lineend>
 <CC03EA>Did that hurt? This will put you out of your misery!!<pause><lineend>
 <CC03EA>I don't care who you are. You get in my way, you die!!<pause><lineend>
