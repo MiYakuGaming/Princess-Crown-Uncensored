@@ -20,7 +20,7 @@ Mercenary<lineend>
 Magician<lineend>
 Merchant<lineend>
 Mariner<lineend>
-Bhuddist Monk<lineend>
+Buddhist Monk<lineend>
 Servant<lineend>
 Maid<lineend>
 Card Knight<lineend>
