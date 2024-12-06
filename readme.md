@@ -2,17 +2,28 @@
 # Princess Crown Uncensored Translation GPL edition by 未訳・MiYaku Gaming
 
 This is MiYaku Gaming's script re-write to Uncensor Princess Crown.
+
 I will pull hacked updates from eadmaster's repository for better game functionality when necessary.
+
 I originally forked a very old and outdated version of CyberWarriorX's repository.
+
 SamIAm's Translation was heavily outdated and had many Japanese lines not Translated.
+
 Due to me Translating Princess Crown on YouTube, I received an email to help eadmaster Translate the remaining lines and helped him.
+
 After the remaining lines were Translated, I deleted my old fork, archived it, and forked this repository from eadmaster's repository for my script re-write.
-未訳・Miyaku Gaming's Translation will completely replace SamIAm's original Translation(https://github.com/eadmaster/pcrown), use eadmaster's version for SamIAm's Translation(https://github.com/eadmaster/pcrown).
+
+未訳・Miyaku Gaming's Translation will completely replace SamIAm's original Translation, use eadmaster's version for SamIAm's Translation at https://github.com/eadmaster/pcrown.
+
 Fans of my Uncensored Translations on YouTube and elsewhere will be happy to know this will be a faithful adaption to the original.
+
 MiYaku Gaming's version restores what was changed in eadmaster's version including profanity, Translation choices and tone of Dialog.
 
 eadmaster leftover:
-**P.N.: reportedly CyberWarriorX and SamIAm are still working privately on this project, and since this was forked many years ago it does not reflect the current status of their project. Btw since this was originally released with a GPL-2.0 license, i'd like to exercise my right to keep working on this and make improvements as long as a better translation patch is released.**
+
+**P.N.: reportedly CyberWarriorX and SamIAm are still working privately on this project, and since this was forked many years ago it does not reflect the current status of their project.
+
+Btw since this was originally released with a GPL-2.0 license, i'd like to exercise my right to keep working on this and make improvements as long as a better translation patch is released.**
 
 
 
@@ -24,9 +35,10 @@ eadmaster leftover:
 ## [FAQs](https://github.com/eadmaster/pcrown/wiki/FAQs)
 
 
-## Preview of eadmaster's version until I get my version moving along
+## Here's a preview so far
 
-![demo1](https://github.com/user-attachments/assets/b4116a9b-2410-474c-8ad0-a64bc6a2266b)  ![demo2](https://github.com/user-attachments/assets/1b0aebdf-efc6-4c21-9c32-ca81ddf03acd) ![383698647-7a4d755d-de7d-4819-b95d-4aa13da5a572](https://github.com/user-attachments/assets/b46dbcdc-2e41-4dc2-80cd-c29aa6d5eb0d)
+![PCrown SS 0002](https://github.com/user-attachments/assets/b28ba919-5ad2-4aa3-9157-f11bd223d6ce)![PCrown SS 0001](https://github.com/user-attachments/assets/8b6a3f28-1803-4139-b8a5-e8a5f5940beb)
+
 
 
 ## Semi-automated patch instructions
