@@ -191,6 +191,12 @@ void cmd31_list_func(command_struct *cmd, int index, HWND hWnd)
 #endif
 }
 
+void print_hex2str(unsigned char* arg, int arg_length){
+   for(int i=0; i<arg_length; i++) {
+      printf("%02X",(int)arg[i]);
+   }
+   printf("\n");
+}
 int DoCommandParse(int cmd, char *name, unsigned char *buf, int size, BOOL count_events, void (*list_func)(command_struct *command, int index, HWND), command_struct *command)
 {
    if (!count_events)
@@ -202,6 +208,13 @@ int DoCommandParse(int cmd, char *name, unsigned char *buf, int size, BOOL count
       memcpy(command->arg, buf, command->arg_length);
       command->list_func = list_func;
    }
+   #ifdef DEBUG_MODE
+      printf("\n--- command parsed:\n");
+      printf("name: %s\n", name );
+      printf("value: ");
+      print_hex2str(command->arg, command->arg_length);
+      printf("offset: %X\n", (int)(buf-event_data)-1 );
+   #endif
    return size;
 }
 
@@ -693,15 +706,24 @@ int EVNParse(unsigned char *evn_buf, int index, BOOL count_events, command_struc
       case 0x88: // ??
          index += DoCommandParse(cmd, "CMD88", evn_buf+index, 0, count_events, null_list_func, command);
          break;
+      /*
+      case 0xA8: // ??  found in 015_00_1  https://github.com/eadmaster/pcrown/issues/30
+         index += DoCommandParse(cmd, "CMDA8", evn_buf+index, 2, count_events, null_list_func, command);         
+         // TESTED len: 6, 0, 1, 2, 3, 4, 9 (Character Walk), 8 
+         break;
+      */
+      
       default:
          {
+            printf("Unknown command %02X at offset %08X\n", cmd, index);
+            /*
             char tempstr[512];
             if (count_events)
             {
                sprintf_s(tempstr, sizeof(tempstr), "Unknown command %02X at offset %08X", cmd, index);
                MessageBoxA(NULL, tempstr, "Notice",
                   MB_OK | MB_ICONINFORMATION);
-            }
+            }*/
             return -2;
 
          }
@@ -929,6 +951,10 @@ void CompressCheckWriteMagicNumber(unsigned char *enc_count, unsigned char *magi
 {
    if (enc_count[0] == 4)
    {
+      #ifdef DEBUG_MODE
+         printf("%02X", (unsigned char)magic_number[0]);
+      #endif
+      
       outbuf[0][0] = magic_number[0];
       outbuf[0]++;
       out_size[0]++;
@@ -939,7 +965,11 @@ void CompressCheckWriteMagicNumber(unsigned char *enc_count, unsigned char *magi
 
 void CompressAddWord(unsigned short word, unsigned char **outbuf, int *out_size, unsigned char *magic_number, unsigned char *enc_count)
 {
-   outbuf[0][0] = (unsigned char)word;
+   #ifdef DEBUG_MODE
+      printf("%02X", (unsigned char)word);
+   #endif
+      
+   outbuf[0][0] = (unsigned char)word;  // truncate upper byte
    outbuf[0]++;
    out_size[0]++;
    magic_number[0] <<= 2;
@@ -949,6 +979,7 @@ void CompressAddWord(unsigned short word, unsigned char **outbuf, int *out_size,
    CompressCheckWriteMagicNumber(enc_count, magic_number, outbuf, out_size);
 }
 
+// CompressAddCC(0x03ED, text, &i, 4, &outbuf, out_size, &magic_number, &enc_count);
 BOOL CompressAddCC(unsigned short word, char *text, size_t *i, int num_words, unsigned char **outbuf, int *out_size, unsigned char *magic_number, unsigned char *enc_count)
 {
    int j;
@@ -1359,19 +1390,22 @@ unsigned short AsciiCharToTexttblIndex(char c) {
    if ( c  == ' ') return(0);
    else if ( c  == '*') return(3);
    else if ( c  == '#') return(3);  // TODO: add "#"
-   else if ( c  == '&') return(3);  // TODO: add "&"
    else if ( c  == '?') return(4);
    else if ( c  == '!') return(5);
    else if ( c  == '_') return(6);
-   else if ( c  == '-') return(8);
+   else if ( c  == '+') return(8);
    else if ( c  == '~') return(9);
    else if ( c  == '(') return(10);
    else if ( c  == ')') return(11);
+   else if ( c  == '[') return(12);
+   else if ( c  == ']') return(13);
+   else if ( c  == '-') return(14);
    else if ( c  == ',') return(0x3DA);
    else if ( c  == '.') return(0x3DB);
    else if ( c  == '\"') return(0x3DC);
    else if ( c  == '\'') return(0x3DD);
    else if ( c  == ':') return(0x3DE);
+   else if ( c  == '&') return(0x3DF);
    else if ( c  == '%') return(0x0F);
    else if ( c  == '0') return(0x11);
    else if ( c  == '1') return(0x12);
@@ -1447,6 +1481,14 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
 			return NULL;
 		}
   */
+      
+      #ifdef DEBUG_MODE
+         printf("\nevent_id: %d\n", event_id );
+         printf("text_pointer_list index: %d\n", l );
+         printf("text: %s\n", text );
+         printf("compressed: ");
+         //printf("\nnum_text: %d\n", num_text );
+      #endif
       
 		// Create new entry for pointer
 		text_pointer_list[l] = out_size[0];
