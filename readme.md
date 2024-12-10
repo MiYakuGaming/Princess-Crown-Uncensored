@@ -19,6 +19,8 @@ Fans of my Uncensored Translations on YouTube and elsewhere will be happy to kno
 
 MiYaku Gaming's version restores what was changed in eadmaster's version including profanity, Translation choices and tone of Dialog.
 
+Thanks to your generosity and support, I have received Donations, so if you are satisfied with my Translations, consider Donating here: https://ko-fi.com/miyakut
+
 eadmaster leftover:
 
 **P.N.: reportedly CyberWarriorX and SamIAm are still working privately on this project, and since this was forked many years ago it does not reflect the current status of their project.
