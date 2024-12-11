@@ -1,0 +1,56 @@
+65536|
+<CC03EA><CC03FC=0004><string=006F><color=0001>Her Majesty, Queen Gradriel is here.<pause><lineend>|
+65537|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>The blood of the Royal Family is both most ancient and ever new.<pause><lineend><CC03EA>Gradriel Do Valendia, the rightful heir to the Crown of Valendia.<pause><lineend><CC03EA>Here I bestow upon you this proof of regal authority.<pause><lineend>|
+65538|
+<CC03EA><CC03FC=0004><string=00FD><color=0001>May you be the Queen who leads Valendia's people into the original righteous light.<pause><lineend>|
+65539|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I solemnly pledge to all of you this Kingdom will flourish eternally in peace.<pause><lineend>|
+131072|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Step forward, the one with a petition.<pause><lineend>|
+131073|
+<CC03EA><CC03FC=0004><string=006F><color=0001>This is a report from Port Town Leeland.<pause><lineend><CC03EA>It appears the Town has sustained damage as Pirate Portgas and his crew have attacked numerous merchant ships.<pause><lineend><CC03EA>I humbly request permission to apprehend this Pirate.<lineend>What should we do?<pause><lineend>|
+131074|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Understood.<pause><lineend><CC03EA>I hereby grant permission for that.<pause><lineend>|
+131075|
+<CC03EA><CC03FC=0004><string=006F><color=0001>I will dispatch them to Leeland at once.<pause><lineend>|
+131076|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Very well, next in line.<pause><lineend>|
+131077|
+<CC03EA><CC03FC=0004><string=0073><color=0001>There's an incident occurring in the Village of Nutsville.<pause><lineend><CC03EA>It seems that some children from the Village have gone missing...<pause><lineend><CC03EA>It appears that they've been lured into the Forest by mischievous Fairies.<pause><lineend><CC03EA>I would like to request that agents be sent to search the Forest.<pause><lineend>|
+131078|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Fairies engaging in such behavior...<pause><lineend>|
+131079|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Princess, a response...<pause><lineend>|
+131080|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Y, Yes.<pause><lineend><CC03EA>I hereby grant permission for that.<pause><lineend>|
+131081|
+<CC03EA><CC03FC=0004><string=0073><color=0001>Thank you humbly.<pause><lineend>|
+131082|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Very well, last in line.<pause><lineend>|
+131083|
+<CC03EA><CC03FC=0004><string=0014><color=0001>Your Majesty, I am the Village Chief of Drangola in the westernmost part.<pause><lineend><CC03EA>Recently, more Dragons are descending from the Mountains.<pause><lineend><CC03EA>Our Village Knights alone are not enough to protect us.<pause><lineend><CC03EA>Please, save our Village from the Dragons.<pause><lineend>|
+131084|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Dragons...<pause><lineend>|
+131085|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Queen.<pause><lineend><CC03EA>Would it be acceptable to direct our Card Knight Army towards Dragon subjugation?<pause><lineend>|
+131086|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Understood.<pause><lineend><CC03EA>I hereby grant permission for that.<pause><lineend>|
+131087|
+<CC03EA><CC03FC=0004><string=0014><color=0001>Your Majesty, I am deeply grateful for your words.<pause><lineend>|
+131088|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>That's it for the Audience Hall.<pause><lineend><CC03EA>Your Majesty, it's time for your Sword lessons.<pause><lineend>|
+131089|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai.<pause><lineend><CC03EA>Couldn't I also go and kill the Dragons to save the Villagers?<pause><lineend>|
+131090|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Ah, what are you saying?<pause><lineend><CC03EA>I cannot possibly allow the Queen to venture into such a dangerous place!<pause><lineend>|
+131091|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I heard my honorable mother,<lineend>the Queen, left this Castle<pause><lineend><CC03EA>with a Sword in hand.<pause><lineend><CC03EA>"To make an informed decision<lineend>one must see it<lineend>with their own eyes."<pause><lineend><CC03EA>I believe I've heard it<lineend>phrased in a similar manner.<pause><lineend>|
+131092|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>That will not happen.<pause><lineend>|
+131093|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I also aspire to become a brave Queen like my mother.<pause><lineend><CC03EA>I also wish to see Valendia with my own eyes in order to guide the people rightfully.<pause><lineend>|
+131094|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>While I understand your desire, it is still too soon.<pause><lineend><CC03EA>Lady Gradriel, you are still too young.<pause><lineend><CC03EA>To become a distinguished Queen, it is necessary to first learn in the Castle.<pause><lineend><CC03EA>Well, let's go together.<lineend>The leader of the Knight Army, Kwein, is waiting for you.<pause><lineend>|
+131095|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...Eeh...<pause><lineend>|
