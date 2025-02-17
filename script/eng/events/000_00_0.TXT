@@ -1,6 +1,7 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>It's Her Majesty.<pause><lineend><CC03EA>Today, aren't you usually there with your Great Sisters?<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>It's Her Majesty.
+<pause><lineend><CC03EA>Today, aren't you usually with your Elder Noble Great Sisters at their residence?<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Your Majesty<pause><lineend><CC03EA>the night has passed.<pause><lineend><CC03EA>Please rest in your Chambers.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Your Majesty,<pause><lineend><CC03EA>the night has passed.<pause><lineend><CC03EA>Please rest in your Chambers.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Your Majesty<pause><lineend><CC03EA>where are you headed?<pause><lineend><CC03EA>Please rest in your Chambers.<pause><lineend><CC03FB=000F><CC03ED=0000006200010000><CC03FB=000F>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Your Majesty,<pause><lineend><CC03EA>where are you headed?<pause><lineend><CC03EA>Please rest in your Chambers.<pause><lineend><CC03FB=000F><CC03ED=0000006200010000><CC03FB=000F>|
