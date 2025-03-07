@@ -1,0 +1,133 @@
+65536|
+<CC03EA><CC03FC=0004><string=007D>This guy has some nerve dashing around like that!
+<pause><lineend>|
+131072|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Queen, are you safe!<pause><lineend>|
+131073|
+<CC03EA><color=0002><string=0000><lineend><color=0001>
+What's with just one Monster
+<lineend>turning up at such a place?<pause><lineend>|
+131074|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Hm... Lately, the evil magic of the earth has<lineend>been increasing even more.<pause><lineend><CC03EA>Possibly influenced by that dark power,<lineend>the monsters seem to have become more aggressive.<pause><lineend>|
+131075|
+<CC03EA><color=0002><string=0000><lineend><color=0001>In the Black Forest Tower,
+<lineend>Master Lyon also said the same thing.<pause><lineend><CC03EA>But that tower's magic power emission<lineend>must have been broken and stopped the release of magical power as well…!<pause><lineend><CC03EA>Maybe…<lineend>Is it possible that there is a portal to the Demon World<lineend>flowing with magic from Arsontula!?<lineend><pause>|
+131076|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>It is likely that there's more to it than just this.<lineend>Something might be happening in the Demon World.<pause><lineend>|
+131077|
+<CC03EA><color=0002><string=0000><lineend><color=0001>It seems that there is a connection <lineend>to the Demon King's seal being broken...<pause><lineend>|
+196608|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Then,<lineend>did the Demon King disappear?<lineend><pause>|
+196609|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I don't think a person who has power as strong as the Demon King<lineend>could have been defeated by an attack at that level.<pause><lineend>|
+196610|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>So, according to records, the Demon King is almost an immortal.<lineend>It might have<pause><lineend><CC03EA>temporarily hidden its form<lineend><pause>|
+196611|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Great Sister Sidrael.<pause><lineend>|
+196612|
+<CC03EA><color=0004><string=012A><lineend><color=0001>I’ve come before the Queen with a request.<pause><lineend><CC03EA>Regarding him…<lineend>Would it be possible to ask for your assistance in helping the Demon King?<pause><lineend>|
+196613|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What is this about older Sister?<pause><lineend>|
+196614|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>So you want to help the Demon King?<pause><lineend>|
+196615|
+<CC03EA><color=0004><string=012A><lineend><color=0001>Though you may find it hard to believe,<lineend>that person's heart isn't evil.<pause><lineend>|
+196616|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Could you tell me<lineend>about what happened in that Tower?<pause><lineend>|
+196617|
+<CC03EA><color=0004><string=012A><lineend><color=0001>Yes...<pause><lineend>|
+262144|
+<CC03EA><color=0004><string=012A><lineend><color=0001>Why have you been calling me here <lineend>so many times these past few days?<pause><lineend>|
+262145|
+<CC03EA><color=0005><string=0110><lineend><color=0001>Tell me...
+<lineend>Since you came here, something has been off.<pause><lineend><CC03EA>This pain is different from the chains around my heart.
+<lineend>...What is this suffering?
+<pause><lineend>|
+262146|
+<CC03EA><CC03FC=0004><string=0110><color=0001>I don’t understand... <lineend>I’ve haven’t felt these feelings on my own before...<pause><lineend><CC03EA>It makes me wish you would come closer to me more often,<lineend>Sidrael...<pause><lineend>|
+262147|
+<CC03EA><color=0004><string=012A><lineend><color=0001><CC03ED=012A000B000103FF>Being together like this...<lineend><CC03ED=012A000A000103FF><pause><CC03EA><CC03ED=012A000B000103FF>I can’t think of you like<lineend>an evil person.<lineend><CC03ED=012A000A000103FF><pause><CC03EA><CC03ED=012A000B000103FF>It seems you<lineend>have a heart that cares for others.<lineend><CC03ED=012A000A000103FF><pause>|
+262148|
+<CC03EA><color=0005><string=0110><lineend><color=0001>If I am not an evil person...<pause><lineend>|
+262149|
+<CC03EA><CC03FC=0004><string=0110><color=0001>If I have a heart for others...<pause><lineend>|
+262150|
+<CC03EA><CC03FC=0004><string=0110><color=0001>Your understanding of who I am<lineend>is badly lacking!<pause><lineend><CC03EA>As the King of the Demon World myself,<lineend>my heart needn’t exist!!<pause><lineend>|
+262151|
+<CC03EA><color=0004><string=012A><lineend><color=0001>Volgrod...<pause><lineend>|
+262152|
+<CC03EA><color=0005><string=0110><lineend><color=0001>If I feel like it,<lineend>I can set you free.<pause><lineend>|
+262153|
+<CC03EA><CC03FC=0004><string=0110><color=0001>With these claws,<lineend>I can also tear limb from limb...<pause><lineend>|
+262154|
+<CC03EA><CC03FC=0004><string=0110><color=0001>I’ve eaten the flesh of many souls I steal,<lineend>my soul dwells in the depths of darkness.<pause><lineend>|
+262155|
+<CC03EA><CC03FC=0004><string=0110><color=0001>I starve for the blood of humans...<pause><lineend>|
+262156|
+<CC03EA><color=0005><string=0110><lineend><color=0001>Am I not terrifying?<pause><lineend>|
+262157|
+<CC03EA><CC03FC=0004><string=0110><color=0001>Why...<lineend><pause>|
+262158|
+<CC03EA><color=0004><string=012A><lineend><color=0001>With those claws,<lineend>it might be easy to kill a fragile human like me.<pause><lineend><CC03EA>However, you can't<lineend>because now you have someone's heart.<lineend><pause>|
+262159|
+<CC03EA><color=0005><string=0110><lineend><color=0001>Well then, if I kill you,<lineend>my heart can disappear.<pause><lineend>|
+262160|
+<CC03EA><color=0005><string=0110><lineend><color=0001>Or do you even dare to say<lineend>that you can love my present form...<lineend><pause>|
+262161|
+<CC03EA><color=0004><string=012A><lineend><color=0001>At first, I was afraid...<lineend><pause>|
+262162|
+<CC03EA><CC03FC=0004><string=012A><color=0001>But even now, Volgrod...<pause><lineend><CC03EA>You are pulled<lineend>to my heart.<pause><lineend>|
+262163|
+<CC03EA><color=0005><string=0110><lineend><color=0001>I, too, was once human...
+<lineend>I obtained my power from Larvae's Book.<pause><lineend>|
+262164|
+<CC03EA><CC03FC=0004><string=0110><color=0001>But I should know in return, everything was lost...<lineend>Memories...Heart...<pause><lineend>|
+262165|
+<CC03EA><color=0004><string=012A><lineend><color=0001>Yet your Heart has returned.<lineend>Volgrod...<pause><lineend>|
+262166|
+<CC03EA><color=0005><string=0110><lineend><color=0001>These Chains imposed by the Goddess you call Gaia,<lineend>bound to me for a thousand years,<pause><lineend><CC03EA>may have<lineend>diluted my<lineend>Poison.
+<pause><lineend>|
+262167|
+<CC03EA><CC03FC=0004><string=0110><color=0001>Will you grant my plea?<pause><lineend>|
+262168|
+<CC03EA><color=0004><string=012A><lineend><color=0001>If I can be of use to you...<pause><lineend>|
+262169|
+<CC03EA><color=0005><string=0110><lineend><color=0001>Bear this suffering away,<lineend>Sidrael...<pause><lineend>|
+327680|
+<CC03EA><color=0004><string=012A><lineend><color=0001>﻿...From there, it was decided to promise freedom for that person<lineend>without causing any conflicts.<pause><lineend>|
+327681|
+<CC03EA><color=0004><string=012A><lineend><color=0001>﻿Though without knowing to return to his human heart<lineend>sealed by those chains...<pause><lineend><CC03EA>despite appearing like a beast,<lineend>he truly has a heart within.<pause><lineend>|
+327682|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>...If that book causes the Demon King to transform,<lineend>then Sir Golgotha was manipulated<pause><lineend><CC03EA>in the past,<lineend>just like Lady Eriel at her own time.<pause><lineend><CC03EA>As much<lineend>as the Demon King’s appearance changes,<lineend>whether a person who obtained power can return to their original human form...<pause><lineend>|
+327683|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Great Older Sister, no matter what reason there is,<lineend>if the Demon King attacks this Kingdom,<pause><lineend><CC03EA>people would fight<lineend>to protect it.<pause><lineend>|
+327684|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Yet, you want to help the Demon King?<pause><lineend>|
+327685|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>If the Demon King<lineend>were to be living freely,<lineend><pause><CC03EA>then merely closing the Door of the Demon World<lineend>wouldn’t be enough<lineend>to cut this surge of Magic Power.<pause><lineend>|
+327686|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Where exactly is the Demon King...?<pause><lineend>|
+327687|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I don’t know,<lineend>the only clue is the Demon King's Tower...<pause><lineend>|
+327688|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>That was a severe earthquake.<pause><lineend>|
+327689|
+<CC03EA><color=0002><string=0000><lineend><color=0001>In Valendia, there has never been an earthquake<lineend>as large as this.<pause><lineend>|
+327690|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Is it because of magic from the Demon World?<pause><lineend>|
+327691|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Perhaps...<pause><lineend><CC03EA>If magic fills the entire world,<lineend>turning it into a magical realm,<lineend>humans wouldn't be able to survive.<pause><lineend>|
+327692|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Once more, I will try going to the Demon World<lineend>to investigate the Demon King's tower.<pause><lineend>|
+327693|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Wha, What!!<pause><lineend>|
+327694|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The path to the Demon King's Tower<lineend>is known only by me and Sir Edward.<pause><lineend><CC03EA>I will go and investigate.<lineend><pause>|
+327695|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>It's possible the Demon King<lineend>might attack.<pause><lineend>|
+327696|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I understand.<pause><lineend>|
+327697|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I absolutely must go.<pause><lineend><CC03EA>Last time as well, I was merely supposed to look for an island<lineend>that leads to the Demon World…<pause><lineend>|
+327698|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>...Honestly, I am just investigating.<pause><lineend>|
