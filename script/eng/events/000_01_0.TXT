@@ -1,19 +1,19 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>The Dragon Hunting Team will head towards Drangola starting tomorrow.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>The Dragon Subjugation Team will head towards Drangola starting tomorrow.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007E><lineend><color=0001>I will definitely come back after rescuing the villagers under Her Majesty's authority.<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>I will go rescue the Villagers under Her Great Majesty's name without fail.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=008B><lineend><color=0001>It's undeniable that the Heroic Knights have been blessed by God...<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>It is undeniable that the Heroic Knights will be blessed by Almighty God...<pause><lineend>|
 3|
-<CC03EA><color=0006><string=007F><lineend><color=0001>Lord Jestonai might say harsh things but deep down he truly cares<pause><lineend><CC03EA>for the Queen.<pause><lineend>|
+<CC03EA><color=0006><string=007F><lineend><color=0001>Master Jestonai might say harsh things, but he truly thinks<pause><lineend><CC03EA>about Queen from the heart.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0080><lineend><color=0001>Those destined to become Knights are instructed to equip the "Warrior's Bracer."<pause><lineend><CC03EA>With that Bracer, even those who couldn't fight before<pause><lineend><CC03EA>can successfully Guard against their opponent's attacks<pause><lineend><CC03EA>and automatically protect themselves from danger.<pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>Those destined to become Knights decide to equip the "Warrior's Bangle."<pause><lineend><CC03EA>With this Bangle, even those who couldn't fight before<pause><lineend><CC03EA>can skillfully Guard against their opponent's attacks<pause><lineend><CC03EA>and automatically protect themselves from danger.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0080><lineend><color=0001>Relying on the bracer alone won't work.<pause><lineend><CC03EA>Some enemies attack in succession,<pause><lineend><CC03EA>so after the first defense, you need to guard yourself.<pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>However, only relying on the Bangle is no good though.<pause><lineend><CC03EA>For example, some enemies attack in succession,<pause><lineend><CC03EA>so after the first defense, you need to Guard yourself.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0081><lineend><color=0001>Going through here leads to the Courtyard.<pause><lineend>|
+<CC03EA><color=0006><string=0081><lineend><color=0001>If you go through here it leads to the Courtyard.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0082><lineend><color=0001>﻿You've become skilled in wielding that Sword.<pause><lineend><CC03EA>﻿﻿Recently, all the Head Knight talks about is your Sword skills.<pause><lineend>|
+<CC03EA><color=0006><string=0082><lineend><color=0001>Her Great Majesty has become skilled with that Sword.<pause><lineend><CC03EA>﻿﻿Recently, all the Head Knight talks about is your Sword skills.<pause><lineend>|
 65536|
 <CC03EA><color=0001>Your Majesty, Your Majesty!<pause><lineend>|
 65537|
