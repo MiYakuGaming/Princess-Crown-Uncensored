@@ -1,0 +1,72 @@
+0|
+<CC03EA><color=0006><string=007D><lineend><color=0001>The Dragon Subjugation Team will head towards Drangola starting tomorrow.<pause><lineend>|
+1|
+<CC03EA><color=0006><string=007E><lineend><color=0001>I will go rescue the Villagers under Her Great Majesty's name without fail.<pause><lineend>|
+2|
+<CC03EA><color=0006><string=008B><lineend><color=0001>It is undeniable that the Heroic Knights will be blessed by Almighty God...<pause><lineend>|
+3|
+<CC03EA><color=0006><string=007F><lineend><color=0001>Master Jestonai might say harsh things, but he truly thinks<pause><lineend><CC03EA>about Queen from the heart.<pause><lineend>|
+4|
+<CC03EA><color=0006><string=0080><lineend><color=0001>Those destined to become Knights decide to equip the "Warrior's Bangle."<pause><lineend><CC03EA>With this Bangle, even those who couldn't fight before<pause><lineend><CC03EA>can skillfully Guard against their opponent's attacks<pause><lineend><CC03EA>and automatically protect themselves from danger.<pause><lineend>|
+5|
+<CC03EA><color=0006><string=0080><lineend><color=0001>However, only relying on the Bangle is no good though.<pause><lineend><CC03EA>For example, some enemies attack in succession,<pause><lineend><CC03EA>so after the first defense, you need to Guard yourself.<pause><lineend>|
+6|
+<CC03EA><color=0006><string=0081><lineend><color=0001>If you go through here it leads to the Courtyard.<pause><lineend>|
+7|
+<CC03EA><color=0006><string=0082><lineend><color=0001>Her Great Majesty has become skilled with that Sword.<pause><lineend><CC03EA>﻿﻿Recently, all the Head Knight talks about is your Sword skills.<pause><lineend>|
+65536|
+<CC03EA><color=0001>Your Majesty, Your Majesty!<pause><lineend>|
+65537|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Who is it!?<pause><lineend>|
+65538|
+<CC03EA><color=0001>Don't be so surprised, I am not a suspicious person.<pause><lineend>|
+65539|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Fairy...?<pause><lineend>|
+65540|
+<CC03EA><CC03FC=0004><string=00F8><color=0001><CC03ED=00F8000A000103FF>I am called Aria.<lineend>It's a pleasure to meet you, Your Majesty.<lineend><CC03ED=00F80009000103FF><pause><CC03EA>I'm sorry for entering the castle like this, but I really wanted to hear your story.<pause><lineend>|
+65541|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>By the way, aren't those kids from Nutsville missing right now?<pause><lineend><CC03EA>The Villagers seem to believe we Fairies are responsible.<pause><lineend><CC03EA>Fairies sometimes lure children to midnight parties where they dance and have fun...<pause><lineend><CC03EA>...by morning, they're back in their beds, it's really true!<pause><lineend>|
+65542|
+<CC03EA><color=0002><string=0000><lineend><color=0001>However, even the servant who came to the audience thinks it's a Fairy prank...<pause><lineend>|
+65543|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Come on, really!<pause><lineend><CC03EA>To vanquish this suspicion, please!<pause><lineend><CC03EA>See the truth with your own eyes, your Majesty!<pause><lineend>|
+65544|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...Understood.<pause><lineend><CC03EA>I will see the truth with my own eyes.<pause><lineend>|
+65545|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Uwaa, thank you!<pause><lineend>|
+65546|
+<CC03EA><color=0002><string=0000><lineend><color=0001>However, how can we go outside?<pause><lineend><CC03EA>If we stay like this, the gatekeeper will find us.<pause><lineend>|
+65547|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Leave it to me, Your Majesty!<pause><lineend>|
+131072|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Please, heeeelp me!<pause><lineend>|
+131073|
+<CC03EA><CC03FC=0004><string=007D>A Fairy in a place like this?<pause><lineend>|
+131074|
+<CC03EA><CC03FC=0004><string=007D>...?<pause><lineend>|
+131075|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Sir Knight, save me.<pause><lineend><CC03EA>Goblins are coming!<pause><lineend>|
+131076|
+<CC03EA><CC03FC=0004><string=007D>Goblins!?<lineend>Are they nearby?<pause><lineend>|
+131077|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Y, Yes.<lineend>I'm being ambushed.<pause><lineend>|
+131078|
+<CC03EA><CC03FC=0004><string=007D>They must not be left alone.<lineend>Goblin bastards...<pause><lineend>|
+131079|
+<CC03EA><CC03FC=0004><string=007D>Don't worry.<lineend>I'll help chase them away.<pause><lineend>|
+131080|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Thank you!!<pause><lineend>|
+131081|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Okay, your Majesty.<pause><lineend><CC03EA>Let's hurry to Nutsville before the kind Knight returns.<pause><lineend>|
+131082|
+<CC03EA><color=0002><string=0000><lineend><color=0001>E...Eeh.<pause><lineend>|
+131083|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Oh Great Sisters, Jestonai...<lineend>I'm sorry.<pause><lineend>|
+196608|
+<CC03EA><CC03FC=0004><string=0077>Your Majesty, pardon my intrusion.<pause><lineend>|
+196609|
+<CC03EA><CC03FC=0004><string=0077>Your Majesty, it's morning now.<pause><lineend>|
+196610|
+<CC03EA><CC03FC=0004><string=0077>...Your Majesty!?<pause><lineend>|
+196611|
+<CC03EA><CC03FC=0004><string=0077>Lord Jestonai!!<pause><lineend><CC03EA>Her Majesty...<lineend>Lady Gradriel...<lineend>is not here!!<pause><lineend>|
