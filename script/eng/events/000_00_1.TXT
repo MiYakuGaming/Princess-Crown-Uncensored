@@ -1,0 +1,66 @@
+0|
+<CC03FB=000A>|
+1|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Y, Your Highness!<lineend>You're safe!<pause><lineend><CC03EA>In the Audience Hall, Jestonai awaits your presence, please hurry.<pause><lineend>|
+2|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Please make haste to the Audience Hall.<pause><lineend>|
+3|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Please take care.<lineend>I am praying for great fortunes of war.<pause><lineend>|
+65536|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Oh, your Majesty!<lineend>So you've made it back safely!<pause><lineend><CC03EA>Everyone was so worried.<pause><lineend><CC03EA>Seriously, something like this happening...<lineend><pause>|
+65537|
+<CC03ED=0000009F00010000><CC03ED=000000A0000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=000000A1000103FF>I apologize for rushing out voluntarily....<lineend><CC03ED=000000A0000103FF><pause>|
+65538|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Given the current urgency of the situation, let us postpone discussing this issue until later.<pause><lineend>|
+65539|
+<CC03ED=000000A200010000><CC03EA><color=0002><string=0000><lineend><color=0001>Did something happen?<pause><lineend>|
+65540|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Lady Eriel has vanished from the Castle, leaving her whereabouts unknown.<pause><lineend><CC03EA>There are known reports from people of the Castle Town stating they had seen someone resembling Lady Eriel by the Black Forest,<pause><lineend><CC03EA>Mr. Kwein, accompanied by several Knights, set out to investigate but has yet to provide any updates.<pause><lineend>|
+65541|
+<CC03EA><CC03FC=0004><string=007F><color=0001>Master Jestonai!<lineend>Sir Kwein, Head of the Chivalric Order has returned!!<pause><lineend>|
+65542|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Ooh!<lineend>Please inform him so he comes to the Audience Hall without delay!<pause><lineend>|
+65543|
+<CC03EA><CC03FC=0004><string=007F><color=0001>Haha-!<pause><lineend>|
+65544|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Lady Gradriel...<pause><lineend>|
+65545|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Head of the Chivalric Order, was Elder Noble Lady Eriel there?<pause><lineend>|
+65546|
+<CC03EA><color=0004><string=0102><lineend><color=0001>We searched the Black Forest when we found a Tower in the Forest depths that we had never seen before,<pause><lineend><CC03EA>and through its window, we discovered Lady Eriel.<pause><lineend>|
+65547|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>So Lady Eriel might be well.<pause><lineend>|
+65548|
+<CC03EA><color=0004><string=0102><lineend><color=0001>However, when we tried to enter the Tower, a Red Haired Witch came to attack us.<pause><lineend><CC03EA>It unfortunately ended up with nearly all of my Knights killed...<pause><lineend>|
+65549|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The Red-Haired Witch!<lineend>I do remember her!<pause><lineend>|
+65550|
+<CC03EA><color=0004><string=0102><lineend><color=0001>That Witch said this to me...<pause><lineend><CC03EA>Inform the Queen so she comes to the Tower alone.<pause><lineend>|
+65551|
+<CC03EA><color=0002><string=0000><lineend><color=0001>So then Elder Great Sister Eriel was unfortunately captured by that Witch!<pause><lineend><CC03EA>I'm going to that Tower immediately!<pause><lineend>|
+65552|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>That won’t happen!<pause><lineend><CC03EA>What this Witch's intent is, is something unclear to us.<lineend>It is also too dangerous.<pause><lineend>|
+65553|
+<CC03EA><color=0002><string=0000><lineend><color=0001>It will be a race against time.<lineend>That and, I understand the intent.<pause><lineend>|
+65554|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>If so, I, Jestonai, shall also accompany you.<pause><lineend>|
+65555|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai, please protect the Castle.<pause><lineend><CC03EA>I somehow feel this might be bad.<pause><lineend><CC03EA>It’s okay, I won’t be excessive.<pause><lineend><CC03EA>I will come back if it becomes too dangerous.<pause><lineend>|
+65556|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>But, Queen...<pause><lineend>|
+65557|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai...it is a ruler’s order.<pause><lineend>|
+65558|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>...Haha.<pause><lineend>|
+65559|
+<CC03EA><color=0004><string=0102><lineend><color=0001>And we Order of Chivalry will not finish it as it is.<lineend>We will prepare to embark at anytime.<pause><lineend><CC03EA>From the book the Witch obtained, various kinds of Magic come unleashed.<pause><lineend><CC03EA>Please be cautious, Lady Gradriel.<pause><lineend>|
+65560|
+<CC03EA><color=0004><string=00FD><lineend><CC03F8=0001><color=0001>With the seal lifted, it might be related to that malicious Book which disappeared somewhere...<pause><lineend>|
+65561|
+<CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies between <color=0005>the Castle Town of Valenadine and the Port City of Leeland.<color=0001><pause><lineend><CC03EA>Queen.<lineend>Please be cautious, Lady Gradriel.<pause><lineend>|
+65562|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Jestonai.<lineend>Then, I will go and visit the Tower in the Black Forest.<pause><lineend>|
+65563|
+<CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies between <color=0005>the Castle Town of Valenadine and the Port City of Leeland.<color=0001><pause><lineend><CC03EA>Queen.<lineend>Please be careful.<pause><lineend>|
+65564|
+<CC03EA><color=0004><string=0102><lineend><color=0001><color=0005>In the heart of the Black Forest<color=0001>, there is a pathway extending towards the north,<color=0002>with the Witch's Tower<color=0001>standing ahead.<pause><lineend><CC03EA>Knights will be stationed near the Forest.<lineend>We will arrange to accompany you at any time.<lineend><pause>|
