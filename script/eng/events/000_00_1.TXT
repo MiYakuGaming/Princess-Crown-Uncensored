@@ -31,7 +31,7 @@
 65547|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>So Lady Eriel might be well.<pause><lineend>|
 65548|
-<CC03EA><color=0004><string=0102><lineend><color=0001>However, when we tried to enter the Tower, a Red Haired Witch came to attack us.<pause><lineend><CC03EA>It unfortunately ended up with nearly all of my Knights killed...<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>However, when we tried to enter the Tower, a Red-Haired Witch came to attack us.<pause><lineend><CC03EA>It unfortunately ended up with nearly all of my Knights killed...<pause><lineend>|
 65549|
 <CC03EA><color=0002><string=0000><lineend><color=0001>The Red-Haired Witch!<lineend>I do remember her!<pause><lineend>|
 65550|
@@ -47,20 +47,20 @@
 65555|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai, please protect the Castle.<pause><lineend><CC03EA>I somehow feel this might be bad.<pause><lineend><CC03EA>It’s okay, I won’t be excessive.<pause><lineend><CC03EA>I will come back if it becomes too dangerous.<pause><lineend>|
 65556|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>But, Queen...<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>But, your Majesty...<pause><lineend>|
 65557|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai...it is a ruler’s order.<pause><lineend>|
 65558|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>...Haha.<pause><lineend>|
 65559|
-<CC03EA><color=0004><string=0102><lineend><color=0001>And we Order of Chivalry will not finish it as it is.<lineend>We will prepare to embark at anytime.<pause><lineend><CC03EA>From the book the Witch obtained, various kinds of Magic come unleashed.<pause><lineend><CC03EA>Please be cautious, Lady Gradriel.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>And we Order of Chivalry will not finish it as it is.<lineend>We will prepare to embark at anytime.<pause><lineend><CC03EA>From the book the Witch obtained, various kinds of Magic comes out one after another.<pause><lineend><CC03EA>Please be cautious, Lady Gradriel.<pause><lineend>|
 65560|
 <CC03EA><color=0004><string=00FD><lineend><CC03F8=0001><color=0001>With the seal lifted, it might be related to that malicious Book which disappeared somewhere...<pause><lineend>|
 65561|
-<CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies between <color=0005>the Castle Town of Valenadine and the Port City of Leeland.<color=0001><pause><lineend><CC03EA>Queen.<lineend>Please be cautious, Lady Gradriel.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies between <color=0005>the Castle Town of Valenadine and the Port City of Leeland.<color=0001><pause><lineend><CC03EA>Your Majesty.<lineend>Please be careful.<pause><lineend>|
 65562|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Jestonai.<lineend>Then, I will go and visit the Tower in the Black Forest.<pause><lineend>|
 65563|
-<CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies between <color=0005>the Castle Town of Valenadine and the Port City of Leeland.<color=0001><pause><lineend><CC03EA>Queen.<lineend>Please be careful.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies between <color=0005>the Castle Town of Valenadine and the Port City of Leeland.<color=0001><pause><lineend><CC03EA>Your Majesty.<lineend>Please be careful.<pause><lineend>|
 65564|
 <CC03EA><color=0004><string=0102><lineend><color=0001><color=0005>In the heart of the Black Forest<color=0001>, there is a pathway extending towards the north,<color=0002>with the Witch's Tower<color=0001>standing ahead.<pause><lineend><CC03EA>Knights will be stationed near the Forest.<lineend>We will arrange to accompany you at any time.<lineend><pause>|
