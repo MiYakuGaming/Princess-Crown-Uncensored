@@ -1,19 +1,19 @@
 65536|
-<CC03EA><CC03FC=0004><string=007D>This guy has some nerve dashing around like that!
+<CC03EA><CC03FC=0004><string=007D>You, jumping about like that!
 <pause><lineend>|
 131072|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Queen, are you safe!<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Your Majesty, are you safe!<pause><lineend>|
 131073|
 <CC03EA><color=0002><string=0000><lineend><color=0001>
 What's with just one Monster
 <lineend>turning up at such a place?<pause><lineend>|
 131074|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Hm... Lately, the evil magic of the earth has<lineend>been increasing even more.<pause><lineend><CC03EA>Possibly influenced by that dark power,<lineend>the monsters seem to have become more aggressive.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Hm...Lately, the evil magic of the earth has<lineend>been increasing even more.<pause><lineend><CC03EA>Possibly influenced by that dark power,<lineend>the monsters seem to have become more aggressive.<pause><lineend>|
 131075|
 <CC03EA><color=0002><string=0000><lineend><color=0001>In the Black Forest Tower,
-<lineend>Master Lyon also said the same thing.<pause><lineend><CC03EA>But that tower's magic power emission<lineend>must have been broken and stopped the release of magical power as well…!<pause><lineend><CC03EA>Maybe…<lineend>Is it possible that there is a portal to the Demon World<lineend>flowing with magic from Arsontula!?<lineend><pause>|
+<lineend>Master Lyon also said the same thing.<pause><lineend><CC03EA>But that Tower's magic power emission<lineend>must have been broken and stopped the release of magical power as well…!<pause><lineend><CC03EA>Maybe…<lineend>Is it possible that there is a portal to the Demon World<lineend>flowing with magic from Arsontula!?<lineend><pause>|
 131076|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>It is likely that there's more to it than just this.<lineend>Something might be happening in the Demon World.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>It is likely there's more to it than just this.<lineend>Something might be happening in the Demon World.<pause><lineend>|
 131077|
 <CC03EA><color=0002><string=0000><lineend><color=0001>It seems that there is a connection <lineend>to the Demon King's seal being broken...<pause><lineend>|
 196608|
@@ -21,13 +21,13 @@ What's with just one Monster
 196609|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I don't think a person who has power as strong as the Demon King<lineend>could have been defeated by an attack at that level.<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>So, according to records, the Demon King is almost an immortal.<lineend>It might have<pause><lineend><CC03EA>temporarily hidden its form<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>So, according to records, the Demon King is almost immortal.<lineend>It might have<pause><lineend><CC03EA>temporarily hidden its form<lineend><pause>|
 196611|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Great Sister Sidrael.<pause><lineend>|
 196612|
 <CC03EA><color=0004><string=012A><lineend><color=0001>I’ve come before the Queen with a request.<pause><lineend><CC03EA>Regarding him…<lineend>Would it be possible to ask for your assistance in helping the Demon King?<pause><lineend>|
 196613|
-<CC03EA><color=0002><string=0000><lineend><color=0001>What is this about older Sister?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What is this about Great Older Sister?<pause><lineend>|
 196614|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>So you want to help the Demon King?<pause><lineend>|
 196615|
@@ -37,14 +37,14 @@ What's with just one Monster
 196617|
 <CC03EA><color=0004><string=012A><lineend><color=0001>Yes...<pause><lineend>|
 262144|
-<CC03EA><color=0004><string=012A><lineend><color=0001>Why have you been calling me here <lineend>so many times these past few days?<pause><lineend>|
+<CC03EA><color=0004><string=012A><lineend><color=0001>Why have you been calling me here<lineend>so many times these past few days?<pause><lineend>|
 262145|
 <CC03EA><color=0005><string=0110><lineend><color=0001>Tell me...
 <lineend>Since you came here, something has been off.<pause><lineend><CC03EA>This pain is different from the chains around my heart.
 <lineend>...What is this suffering?
 <pause><lineend>|
 262146|
-<CC03EA><CC03FC=0004><string=0110><color=0001>I don’t understand... <lineend>I’ve haven’t felt these feelings on my own before...<pause><lineend><CC03EA>It makes me wish you would come closer to me more often,<lineend>Sidrael...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0110><color=0001>I don’t understand... <lineend>I haven’t felt these feelings on my own before...<pause><lineend><CC03EA>It makes me wish you would come closer to me more often,<lineend>Sidrael...<pause><lineend>|
 262147|
 <CC03EA><color=0004><string=012A><lineend><color=0001><CC03ED=012A000B000103FF>Being together like this...<lineend><CC03ED=012A000A000103FF><pause><CC03EA><CC03ED=012A000B000103FF>I can’t think of you like<lineend>an evil person.<lineend><CC03ED=012A000A000103FF><pause><CC03EA><CC03ED=012A000B000103FF>It seems you<lineend>have a heart that cares for others.<lineend><CC03ED=012A000A000103FF><pause>|
 262148|
