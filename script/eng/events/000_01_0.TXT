@@ -5,7 +5,7 @@
 2|
 <CC03EA><color=0006><string=008B><lineend><color=0001>It is undeniable that the Heroic Knights will be blessed by Almighty God...<pause><lineend>|
 3|
-<CC03EA><color=0006><string=007F><lineend><color=0001>Master Jestonai might say harsh things, but he truly thinks<pause><lineend><CC03EA>about Queen from the heart.<pause><lineend>|
+<CC03EA><color=0006><string=007F><lineend><color=0001>Master Jestonai might say harsh things, but he truly thinks about<pause><lineend><CC03EA>her Majesty from the heart.<pause><lineend>|
 4|
 <CC03EA><color=0006><string=0080><lineend><color=0001>Those destined to become Knights decide to equip the "Warrior's Bangle."<pause><lineend><CC03EA>With this Bangle, even those who couldn't fight before<pause><lineend><CC03EA>can skillfully Guard against their opponent's attacks<pause><lineend><CC03EA>and automatically protect themselves from danger.<pause><lineend>|
 5|
@@ -29,7 +29,7 @@
 65542|
 <CC03EA><color=0002><string=0000><lineend><color=0001>However, even the servant who came to the audience thinks it's a Fairy prank...<pause><lineend>|
 65543|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Come on, really!<pause><lineend><CC03EA>To vanquish this suspicion, please!<pause><lineend><CC03EA>See the truth with your own eyes, your Majesty!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>It's a misunderstanding!<pause><lineend><CC03EA>To dispel this suspicion, please!<pause><lineend><CC03EA>See the truth with your own eyes, your Majesty!<pause><lineend>|
 65544|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Understood.<pause><lineend><CC03EA>I will see the truth with my own eyes.<pause><lineend>|
 65545|
@@ -69,4 +69,4 @@
 196610|
 <CC03EA><CC03FC=0004><string=0077>...Your Majesty!?<pause><lineend>|
 196611|
-<CC03EA><CC03FC=0004><string=0077>Lord Jestonai!!<pause><lineend><CC03EA>Her Majesty...<lineend>Lady Gradriel...<lineend>is not here!!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0077>Lord Jestonai!!<pause><lineend><CC03EA>Her Majesty...<lineend>Lady Gradriel...is not here!!<pause><lineend>|
